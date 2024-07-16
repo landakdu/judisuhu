@@ -40,7 +40,7 @@ function xaw8() {location.replace("https://www.aw8links.com/id-id/register?refid
 function xalexabet88() {location.replace("https://alexabet88alexabet88.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08sure.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://dewa234land.com/register/W42BG936");}
-function xmpo666() {location.replace("https://mpo666yu.com/register/WM41P433");}
+function xmpo666() {location.replace("https://mpo666m.com/register/WM41P433");}
 function xmpo555() {location.replace("https://ball-555.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobetsip.com/?ref=rakuyaba");}
 function xsweet777() {location.replace("https://sweet77.live/register?ref=GS2AEAB0SVJ");}
