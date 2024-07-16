@@ -63,7 +63,7 @@ function x8bettingan() {location.replace("https://bettingan3.click/register?ref=
 function xsinggah4d() {location.replace("https://singgah4d-gacor.com/?ref=rakuyaba");}
 function xpoa88() {location.replace("https://howali.com/?ref=rakuyaba");}
 function xlotto01() {location.replace("https://panen01.fun/referral/BUNSIN");}
-function xsquad777() {location.replace("https://mainsquad777.sbs/register?ref=bunsin");}
+function xsquad777() {location.replace("https://squad777.guru/register?ref=bunsin");}
 function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
 function xhoki177() {location.replace("https://juarahoki177.com/register?ref=rakuyaba");}
