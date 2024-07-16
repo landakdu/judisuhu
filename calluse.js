@@ -81,4 +81,4 @@ function xbetcoinasia() {location.replace("https://linkbtc.vip/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
 function xpphoki() {location.replace("https://pphoki.markets/?ref=rakuyaba");}
-function xjudisuhu() {location.replace("https://judisuhu.site/");}
+function xjudisuhu() {location.replace("https://judisuhu4.blogspot.com/");}
