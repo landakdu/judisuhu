@@ -1,4 +1,4 @@
-function xjudisuhu() {location.replace("https://judisuhu4.blogspot.com/");}
+function xjudisuhu() {location.replace("https://ttv1a.blogspot.com/2024/07/judisuhuonline.html");}
 function xlotto01() {window.open("https://ttv1a.blogspot.com/2024/06/lotto01_98.html");}
 function xbom29toto() {window.open("https://ttv1a.blogspot.com/2024/07/bom29toto.html");}
 function x8togel() {window.open("https://ttv1a.blogspot.com/2024/07/8togel.html");}
