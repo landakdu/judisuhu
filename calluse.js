@@ -6,7 +6,6 @@ function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref
 function xkaikoslot() {location.replace("https://logintgl27.xyz/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
-function xarobet88() {location.replace("https://arobet88-raja.shop/?ref=rakuyaba");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
 function xkoin313() {location.replace("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {location.replace("https://indagen188.bond/register/W518KB66");}
@@ -51,7 +50,6 @@ function x66kone() {location.replace("https://t.me/W66KONE");}
 function xmpo222() {location.replace("https://mpo222login.top/register/WNR6893G");}
 function xcoblos4d() {location.replace("https://coblosonline4d.xyz/?ref=rakuyaba");}
 function xagenslot168() {location.replace("https://loginags168.xyz/register/Y7G7GR7B");}
-function xpusaka787() {location.replace("https://myonlyfanschat.online/register?ref=RAKUYABA");}
 function xnewliga365() {location.replace("https://newliga365t.pro/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {location.replace("https://slotoppo.shop/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
