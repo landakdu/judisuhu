@@ -609,10 +609,9 @@ scrollbar-width: auto;  /* Firefox */
 .card{float:left;width:11.1%;background:0 0;border:none;text-align:center;display:inline-grid;position:relative}.card-content{margin:5px 2px;color:#fff;font-size:12px;border:revert-layer;overflow:hidden;border-radius:25px;border-bottom:4px ridge;border-color:silver;position:relative}
                         
 @media(max-width:1230px){.slot-sidebar-nav{flex-wrap:nowrap}
+.card{width:33.3%!important} 
 
-
-@media(max-width:990px){.mobilesetingnow{flex-wrap:nowrap}
-.card{width:33.3%!important}                        
+@media(max-width:990px){.mobilesetingnow{flex-wrap:nowrap}                       
 .textmenu {font-size: 67%;}
                      
 @media(max-width:550px){.mobilesetingnow{flex-wrap:nowrap}
