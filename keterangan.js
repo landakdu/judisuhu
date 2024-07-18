@@ -10,7 +10,7 @@ for (let i = 0; i < bgwaspada.length; i++) {
 
 const bgdomain = document.getElementsByClassName("bgdomain");
 for (let i = 0; i < bgdomain.length; i++) {
-  bgdomain[i].innerHTML = "<h1 class='keterangan-font-size'>Situs berstatus <span class='color-green'>AMAN BERWARNA HIJAU</span> Link update paling cepat 5 menit dan paling lambat 12 jam setelah link sebelumnya terkena gangguan akses<br/><br/>Situs berstatus <span class='color-yellow'>WASPADA BERWARNA KUNING</span> dan <span class='color-red'>BAHAYA BERWARNA MERAH</span> link tidak kami update namun anda boleh tanyakan link secara langsung ke situs resminya dari tombol <span class='color-red'>CHAT</span> di bawahnya</h1>";
+  bgdomain[i].innerHTML = "<h1 class='keterangan-font-size'>Tombol berwarna <span class='color-green'>HIJAU</span> artinya situs tersebut <span class='color-green'>AMAN</span> dan link tanpa vpn dapat di gunakan selamanya karena otomatis update setiap hari<br/><br/>Tombol berwarna <span class='color-yellow'>KUNING</span> dan <span class='color-red'>MERAH</span> artinya situs tersebut tidak aman menurut judisuhu dan link tanpa vpn tidak di sediakan judisuhu, jika membutuhkan link terbaru klik tombol <span class='color-red'>CHAT</span> yang di sediakan judisuhu agar anda dapat berkomunikasi dan meminta link terbaru secara langsung ke situs resminya, tombol <span class='color-red'>CHAT</span>  hanya muncul jika anda mengklik tombol <span class='color-yellow'>KUNING</span> atau<span class='color-red'>MERAH</span>sesuai dengan situs yang anda inginkan.</h1>";
 }
 
 const bgchatadmin = document.getElementsByClassName("bgchatadmin");
