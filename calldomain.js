@@ -60,7 +60,6 @@ function xarobet88() {window.open("https://ttv1a.blogspot.com/2024/07/arobet88.h
 function xaw8() {window.open("https://ttv1a.blogspot.com/2024/07/aw8.html");}
 function xrusia777() {window.open("https://ttv1a.blogspot.com/2024/07/rusia777.html");}
 function xkaikoslot() {window.open("https://ttv1a.blogspot.com/2024/07/kaikoslot.html");}
-function xserbacasino() {window.open("https://ttv1a.blogspot.com/2024/07/serbacasino.html");}
 function xhoki77() {window.open("https://ttv1a.blogspot.com/2024/07/hoki77.html");}
 function xpepe77() {window.open("https://ttv1a.blogspot.com/2024/07/pepe77.html");}
 function xolympus188() {window.open("https://ttv1a.blogspot.com/2024/07/olympus188.html");}
