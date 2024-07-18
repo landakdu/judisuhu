@@ -566,7 +566,7 @@ font-weight:900;
 position:relative;
 top:0%;
 text-align: center;
-font-size: 67%;
+font-size: 100%;
 margin-bottom: 3.01%;
 white-space: nowrap;
 border: 1px solid #0000;
@@ -612,10 +612,9 @@ scrollbar-width: auto;  /* Firefox */
 .card{width:33.3%!important}
 
 
-@media(max-width:1000px){.mobilesetingnow{flex-wrap:nowrap}
-
-
-                         
+@media(max-width:990px){.mobilesetingnow{flex-wrap:nowrap}
+.textmenu {font-size: 67%;}
+                     
 @media(max-width:550px){.mobilesetingnow{flex-wrap:nowrap}
 
 
