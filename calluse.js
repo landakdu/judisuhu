@@ -68,7 +68,7 @@ function xhoki177() {location.replace("https://duithoki177.com/register?ref=raku
 function xgacorslot() {location.replace("https://gacorslots.lol/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
-function xtokekwin() {location.replace("https://kingtokekwin.pro/daftar?ref=rakuyaba");}
+function xtokekwin() {location.replace("https://tokekwinhome.com/daftar?ref=rakuyaba");}
 function xdewakoin() {location.replace("https://dewakoin23.com/register?ref=PABAAAP0MH8");}
 function xdiva168() {location.replace("https://diva168sg26.com/register?referral=15542094924");}
 function xroyal123() {location.replace("https://www.royal123gw.com/register?ref=F88M1AN0ZJ2");}
