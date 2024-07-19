@@ -38,7 +38,7 @@ function xole777() {location.replace("https://mobi.gol8553.com/#/register?referr
 function xaw8() {location.replace("https://www.aw8links.com/id-id/register?refid=vpwavmyw");}
 function xalexabet88() {location.replace("https://alexabet88alexabet88.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08sure.com/register/WM418MNP");}
-function xdewa234() {location.replace("https://dewa234land.com/register/W42BG936");}
+function xdewa234() {location.replace("https://dewa234vip.org/register/W42BG936");}
 function xmpo666() {location.replace("https://mpo666v.com/register/WM41P433");}
 function xmpo555() {location.replace("https://ball-555.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobetmas.com/?ref=rakuyaba");}
