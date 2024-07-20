@@ -3,7 +3,7 @@ function xolympus188() {location.replace("https://www.olympus188c.store/register
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
 function xhoki77() {location.replace("https://hoki77rtpgacor.com/register?ref=LJYAYaL");}
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
-function xkaikoslot() {location.replace("https://petir18jul.site/register?ref=q1ZpFde");}
+function xkaikoslot() {location.replace("https://petir19jul.site/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
@@ -39,7 +39,7 @@ function xaw8() {location.replace("https://www.aw8links.com/id-id/register?refid
 function xalexabet88() {location.replace("https://alexabet88alexabet88.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08sure.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://dewa234vip.org/register/W42BG936");}
-function xmpo666() {location.replace("https://mpo666v.com/register/WM41P433");}
+function xmpo666() {location.replace("https://mpo666o.com/register/WM41P433");}
 function xmpo555() {location.replace("https://ball-555.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobetmas.com/?ref=rakuyaba");}
 function xsweet777() {location.replace("https://sweet77.live/register?ref=GS2AEAB0SVJ");}
@@ -60,7 +60,7 @@ function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {location.replace("https://bettingan3.click/register?ref=QZPZPBE00O4");}
 function xsinggah4d() {location.replace("https://singgah4d-gacor.com/?ref=rakuyaba");}
 function xpoa88() {location.replace("https://howali.com/?ref=rakuyaba");}
-function xlotto01() {location.replace("https://joinsegera.pro/referral/BUNSIN");}
+function xlotto01() {location.replace("https://sukses01.pro/referral/BUNSIN");}
 function xsquad777() {location.replace("https://lp.squad777-play.store/register?ref=bunsin");}
 function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
@@ -68,12 +68,12 @@ function xhoki177() {location.replace("https://duithoki177.com/register?ref=raku
 function xgacorslot() {location.replace("https://gacorslotgg.site/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
-function xtokekwin() {location.replace("https://tokekwinhome.com/daftar?ref=rakuyaba");}
+function xtokekwin() {location.replace("https://tokekwini.com/daftar?ref=rakuyaba");}
 function xdewakoin() {location.replace("https://dewakoin23.com/register?ref=PABAAAP0MH8");}
 function xdiva168() {location.replace("https://diva168sg26.com/register?referral=15542094924");}
 function xroyal123() {location.replace("https://www.royal123gw.com/register?ref=F88M1AN0ZJ2");}
 function xaquaslot() {location.replace("https://aquaslot11.com/?ref=bunsin");}
-function xmpo369() {location.replace("https://mpo369an.com/register/W7N46140");}
+function xmpo369() {location.replace("https://mpo369ao.com/register/W7N46140");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function xbetcoinasia() {location.replace("https://promobetcoin.me/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
