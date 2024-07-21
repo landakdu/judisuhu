@@ -3,7 +3,7 @@ function xolympus188() {location.replace("https://www.olympus188c.store/register
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
 function xhoki77() {location.replace("https://hoki77rtpgacor.com/register?ref=LJYAYaL");}
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
-function xkaikoslot() {location.replace("https://petir19jul.site/register?ref=q1ZpFde");}
+function xkaikoslot() {location.replace("https://petir20jul.site/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
