@@ -3,7 +3,7 @@ function xolympus188() {location.replace("https://www.olympus188c.store/register
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
 function xhoki77() {location.replace("https://hoki77rtpgacor.com/register?ref=LJYAYaL");}
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
-function xkaikoslot() {location.replace("https://petir21jul.site/register?ref=q1ZpFde");}
+function xkaikoslot() {location.replace("https://petir22jul.site/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
@@ -16,12 +16,12 @@ function xcor77() {location.replace("https://cor77b.com/register?ref=8GGAEAC1CUR
 function xlotuspelangi() {location.replace("https://superlotuspelangi.online/daftar?ref=rakuyaba");}
 function xskslot() {location.replace("https://sklahbray.com/register?ref=rakuyaba");}
 function xibosport() {location.replace("https://v2ibocuan.store/");}
-function xpiontogel() {location.replace("https://pionlabel.com/link.php?member=rakuyaba");}
+function xpiontogel() {location.replace("https://pionred.com/link.php?member=rakuyaba");}
 function xdauntogel() {location.replace("https://d4unpucuk.com/link.php?member=rakuyaba");}
 function xkenzo188() {location.replace("https://wetkenzo188.us/register?ref=A3MMMAF4PO7");}
 function xpmg88() {location.replace("https://pmg88.store/register?ref=u2y78Bp");}
 function xnyaitogel() {location.replace("https://nyaispin.org/link.php?member=rakuyaba");}
-function xpintutogel() {location.replace("https://xn--c1aehohge0aaj8h.org/register?referral_code=rakuyaba");}
+function xpintutogel() {location.replace("https://pintutogelsultan.icu/register?referral_code=rakuyaba");}
 function xantiktoto() {location.replace("https://mainantik.pro/link.php?member=rakuyaba");}
 function xcahaya268() {location.replace("https://klikjp1m.site/register?ref=3SKALAC01FJ");}
 function xkijangwin() {location.replace("https://suhukijangwin.com/daftar?ref=rakuyaba");}
