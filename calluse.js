@@ -78,5 +78,5 @@ function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function xbetcoinasia() {location.replace("https://promobetcoin.me/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
-function xpphoki() {location.replace("https://pphoki.markets/?ref=rakuyaba");}
+function xpphoki() {location.replace("https://pphoki123.org/?ref=rakuyaba");}
 function xjudisuhu() {location.replace("https://judisuhub.blogspot.com/");}
