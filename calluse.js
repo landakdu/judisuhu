@@ -3,7 +3,7 @@ function xolympus188() {location.replace("https://www.olympus188c.store/register
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
 function xhoki77() {location.replace("https://hoki77rtpgacor.com/register?ref=LJYAYaL");}
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
-function xkaikoslot() {location.replace("https://petir23jul.site/register?ref=q1ZpFde");}
+function xkaikoslot() {location.replace("https://petir25jul.site/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
@@ -16,12 +16,12 @@ function xcor77() {location.replace("https://cor77b.com/register?ref=8GGAEAC1CUR
 function xlotuspelangi() {location.replace("https://superlotuspelangi.online/daftar?ref=rakuyaba");}
 function xskslot() {location.replace("https://sklahbray.com/register?ref=rakuyaba");}
 function xibosport() {location.replace("https://v2ibocuan.store/");}
-function xpiontogel() {location.replace("https://pionred.com/link.php?member=rakuyaba");}
+function xpiontogel() {location.replace("https://pionblue.com/link.php?member=rakuyaba");}
 function xdauntogel() {location.replace("https://d4unpucuk.com/link.php?member=rakuyaba");}
 function xkenzo188() {location.replace("https://kekenzo188.us/register?ref=A3MMMAF4PO7");}
 function xpmg88() {location.replace("https://pmg88.store/register?ref=u2y78Bp");}
 function xnyaitogel() {location.replace("https://nyaispin.org/link.php?member=rakuyaba");}
-function xpintutogel() {location.replace("https://pintutogelsultan.icu/register?referral_code=rakuyaba");}
+function xpintutogel() {location.replace("https://pintutogelpro.cfd/register?referral_code=rakuyaba");}
 function xantiktoto() {location.replace("https://mainantik.pro/link.php?member=rakuyaba");}
 function xcahaya268() {location.replace("https://klikjp1m.site/register?ref=3SKALAC01FJ");}
 function xkijangwin() {location.replace("https://sepuhkijangwin.com/daftar?ref=rakuyaba");}
@@ -36,7 +36,7 @@ function xjet88bet() {location.replace("https://bettingan3.digital/register?ref=
 function xcvtogel() {location.replace("https://freedomammostore.com/link.php?member=rakuyaba");}
 function xole777() {location.replace("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
 function xaw8() {location.replace("https://www.aw8links.com/id-id/register?refid=vpwavmyw");}
-function xalexabet88() {location.replace("https://alexabet88alexabet88.com/register?ref=4284846");}
+function xalexabet88() {location.replace("https://alexabet88site.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08sure.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://silvermile.net/register/W42BG936");}
 function xmpo666() {location.replace("https://mpo666ak.com/register/WM41P433");}
