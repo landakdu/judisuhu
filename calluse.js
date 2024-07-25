@@ -75,7 +75,7 @@ function xroyal123() {location.replace("https://www.royal123gw.com/register?ref=
 function xaquaslot() {location.replace("https://aquaslot11.com/?ref=bunsin");}
 function xmpo369() {location.replace("https://mpo369ao.com/register/W7N46140");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
-function xbetcoinasia() {location.replace("https://promobetcoin.me/?ref=bunsin");}
+function xbetcoinasia() {location.replace("https://linkbetcoin.club/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
 function xpphoki() {location.replace("https://pphoki888.org/?ref=rakuyaba");}
