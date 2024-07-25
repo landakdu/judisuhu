@@ -60,11 +60,11 @@ function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {location.replace("https://bettingan3.click/register?ref=QZPZPBE00O4");}
 function xsinggah4d() {location.replace("https://singgah4d-gacor.com/?ref=rakuyaba");}
 function xpoa88() {location.replace("https://howali.com/?ref=rakuyaba");}
-function xlotto01() {location.replace("https://versisukses.one/referral/BUNSIN");}
+function xlotto01() {location.replace("https://resep01.xyz/referral/BUNSIN");}
 function xsquad777() {location.replace("https://vip.squad777-play.store/register?ref=bunsin");}
 function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
-function xhoki177() {location.replace("https://duithoki177.com/register?ref=rakuyaba");}
+function xhoki177() {location.replace("https://sensasihoki177.com/register?ref=rakuyaba");}
 function xgacorslot() {location.replace("https://gacorslotgg.site/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
