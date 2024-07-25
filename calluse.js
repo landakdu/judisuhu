@@ -10,7 +10,7 @@ function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
 function xkoin313() {location.replace("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {location.replace("https://indagen188.bond/register/W518KB66");}
 function xnexus77() {location.replace("https://noblockss.blogspot.com/");}
-function x303hoki() {location.replace("https://laurenmcleandesign.com/register/Y66KPQ1K");}
+function x303hoki() {location.replace("https://303hokiads.pro/register/Y66KPQ1K");}
 function xapi77() {location.replace("https://casnonline.com/account/register/158909985");}
 function xcor77() {location.replace("https://cor77b.com/register?ref=8GGAEAC1CUR");}
 function xlotuspelangi() {location.replace("https://superlotuspelangi.online/daftar?ref=rakuyaba");}
@@ -54,7 +54,7 @@ function xnewliga365() {location.replace("https://newliga365t.pro/?action=regist
 function xslotoppo88() {location.replace("https://slotoppo.shop/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {location.replace("https://wisdom77link.com/?ref=rakuyaba");}
-function xlembagatoto() {location.replace("https://lembagatogel.com/link.php?member=rakuyaba");}
+function xlembagatoto() {location.replace("https://lembagatoto.cloud/link.php?member=rakuyaba");}
 function xunoplay() {location.replace("https://uno1playbest.xyz/register?ref=E48A47B5");}
 function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {location.replace("https://bettingan3.click/register?ref=QZPZPBE00O4");}
