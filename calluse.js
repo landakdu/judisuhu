@@ -42,7 +42,7 @@ function xdewa234() {location.replace("https://silvermile.net/register/W42BG936"
 function xmpo666() {location.replace("https://mpo666yt.com/register/WM41P433");}
 function xmpo555() {location.replace("https://mpo555-mall.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobet-sip.com/?ref=rakuyaba");}
-function xsweet777() {location.replace("https://sweet77.live/register?ref=GS2AEAB0SVJ");}
+function xsweet777() {location.replace("https://zeus777.bond/register?ref=GS2AEAB0SVJ");}
 function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {location.replace("https://jdmerah.top/register?reff=rakuyaba");}
 function xmega55() {location.replace("https://mega55pro.live/register?ref=ZGGIGAB00JK");}
