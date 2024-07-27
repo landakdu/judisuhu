@@ -45,7 +45,7 @@ function xkadobet() {location.replace("https://kadobetab.xyz/?ref=rakuyaba");}
 function xsweet777() {location.replace("https://zeus777.homes/register?ref=GS2AEAB0SVJ");}
 function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {location.replace("https://jdmerah.top/register?reff=rakuyaba");}
-function xmega55() {location.replace("https://mega55pro.live/register?ref=ZGGIGAB00JK");}
+function xmega55() {location.replace("https://mega55bisa.xyz/register?ref=ZGGIGAB00JK");}
 function x66kone() {location.replace("https://t.me/W66KONE");}
 function xmpo222() {location.replace("https://mpo222rich.com/register/WNR6893G");}
 function xcoblos4d() {location.replace("https://coblosonline4d.xyz/?ref=rakuyaba");}
