@@ -64,7 +64,7 @@ function xlotto01() {location.replace("https://klik01.info/referral/BUNSIN");}
 function xsquad777() {location.replace("https://vip.squad777-play.store/register?ref=bunsin");}
 function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
-function xhoki177() {location.replace("https://robothoki177.com/register?ref=rakuyaba");}
+function xhoki177() {location.replace("https://puncakhoki177.com/register?ref=rakuyaba");}
 function xgacorslot() {location.replace("https://gacorslotoke.site/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
