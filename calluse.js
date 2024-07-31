@@ -39,7 +39,7 @@ function xaw8() {location.replace("https://www.aw8big.com/id-id/register?refid=v
 function xalexabet88() {location.replace("https://alexabet88fix.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08rest.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://silvermile.net/register/W42BG936");}
-function xmpo666() {location.replace("https://mpo666jk.com/register/WM41P433");}
+function xmpo666() {location.replace("https://mpo666ft.com/register/WM41P433");}
 function xmpo555() {location.replace("https://mpo555-smart.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobetab.xyz/?ref=rakuyaba");}
 function xsweet777() {location.replace("https://zeus777.mom/register?ref=GS2AEAB0SVJ");}
