@@ -14,7 +14,7 @@ function x303hoki() {location.replace("https://303hkampuh.com/register/Y66KPQ1K"
 function xapi77() {location.replace("https://casnonline.com/account/register/158909985");}
 function xcor77() {location.replace("https://cor77b.com/register?ref=8GGAEAC1CUR");}
 function xlotuspelangi() {location.replace("https://superlotuspelangi.online/daftar?ref=rakuyaba");}
-function xskslot() {location.replace("https://buahsks.com/register?ref=rakuyaba");}
+function xskslot() {location.replace("https://sayursks.com/register?ref=rakuyaba");}
 function xibosport() {location.replace("https://v2ibocuan.store/");}
 function xpiontogel() {location.replace("https://pionnaga.com/link.php?member=rakuyaba");}
 function xdauntogel() {location.replace("https://d4unpucuk.com/link.php?member=rakuyaba");}
