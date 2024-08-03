@@ -27,7 +27,7 @@ function xcahaya268() {location.replace("https://klikjp1m.site/register?ref=3SKA
 function xkijangwin() {location.replace("https://sepuhkijangwin.com/daftar?ref=rakuyaba");}
 function xaurajp() {location.replace("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
 function xspesial303() {location.replace("https://malamminggu.site/register?ref=rakuyaba");}
-function xxuxu4d() {location.replace("https://xuxu4dba.com/?ref=rakuyaba");}
+function xxuxu4d() {location.replace("https://xuxu4dkl.com/?ref=rakuyaba");}
 function xboss177() {location.replace("https://pastiboss.com/register?ref=rakuyaba");}
 function xneko9() {location.replace("https://juraganeko.com/register?ref=rakuyaba");}
 function xplaza4d() {location.replace("https://plaza4d-ok.com/register?ref=rakuyaba");}
@@ -35,7 +35,7 @@ function xwishslot() {location.replace("https://linkwishslot.cyou/register?ref=1
 function xjet88bet() {location.replace("https://jetstargo2.shop/?ref=rakuyaba");}
 function xcvtogel() {location.replace("https://freedomammostore.com/link.php?member=rakuyaba");}
 function xole777() {location.replace("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
-function xaw8() {location.replace("https://www.aw8big.com/id-id/register?refid=vpwavmyw");}
+function xaw8() {location.replace("https://www.aw8boss.com/id-id/register?refid=vpwavmyw");}
 function xalexabet88() {location.replace("https://alexabet88fix.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08rest.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://silvermile.net/register/W42BG936");}
@@ -53,8 +53,8 @@ function xagenslot168() {location.replace("https://agenslt168.xyz/register/Y7G7G
 function xnewliga365() {location.replace("https://newliga365t.pro/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {location.replace("https://slotoppo.shop/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
-function xwisdom77() {location.replace("https://wisdom77link.com/?ref=rakuyaba");}
-function xlembagatoto() {location.replace("https://lembagatotojp.com/link.php?member=rakuyaba");}
+function xwisdom77() {location.replace("https://wisdom77vip.com/?ref=rakuyaba");}
+function xlembagatoto() {location.replace("https://lembagatotomaxwin.com/link.php?member=rakuyaba");}
 function xunoplay() {location.replace("https://uno1playbest.xyz/register?ref=E48A47B5");}
 function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {location.replace("https://bettingan3.today/register?ref=QZPZPBE00O4");}
