@@ -51,7 +51,7 @@ function xmpo222() {location.replace("https://mpo222pacifier.com/register/WNR689
 function xcoblos4d() {location.replace("https://coblosonline4d.xyz/?ref=rakuyaba");}
 function xagenslot168() {location.replace("https://agenslt168.xyz/register/Y7G7GR7B");}
 function xnewliga365() {location.replace("https://newliga365t.pro/?action=register&rc=N8SY7QO738&ci=11");}
-function xslotoppo88() {location.replace("https://slotoppo.shop/?ref=rakuyaba");}
+function xslotoppo88() {location.replace("https://komunitas888.com/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {location.replace("https://wisdom77vip.com/?ref=rakuyaba");}
 function xlembagatoto() {location.replace("https://lembagatotojpwd.com/register?referral_code=rakuyaba");}
