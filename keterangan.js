@@ -1,6 +1,6 @@
 const bgbahaya = document.getElementsByClassName("bgbahaya");
 for (let i = 0; i < bgbahaya.length; i++) {
-  bgbahaya[i].innerHTML = "<h1 class='keterangan-font-size'>Mohon maaf link terbaru silahkan minta kepada cs melalui tombol <span class='color-red'>CHAT</span> yang telah kami sediakan di bawah, situs ini sangat mengecewakan menurut judisuhu alasannya tidak akan di sebar oleh judisuhu untuk link tanpa vpn tidak di sedikan lagi oleh judisuhu, anda harus berhati-hati jika tetap ingin melanjutkan kami doakan yang terbaik untuk anda semoga tetap aman dan nyaman bermain di situs tersebut, salam dari judisuhu 🙏.</h1>";
+  bgbahaya[i].innerHTML = "<h1 class='keterangan-font-size'>Mohon maaf situs ini berbahaya menurut kami sebab situs ini hilang begitu saja dan kami tidak tahu apa penyebabnya, kami telah berupaya mencari dari berbagai sumber namun tidak di temukan begitu juga dengan livechatnya tidak ada satupun informasi layanan tertinggal yang dapat kami hubungi., salam dari judisuhu 🙏.</h1>";
 }
 
 const bgwaspada = document.getElementsByClassName("bgwaspada");
