@@ -70,7 +70,7 @@ function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rak
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
 function xtokekwin() {location.replace("http://xn--90aegfliactfdh7n.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xdewakoin() {location.replace("https://dewakoin-daftar5.shop/register?ref=PABAAAP0MH8");}
-function xdiva168() {location.replace("https://diva168sg26.com/register?referral=15542094924");}
+function xdiva168() {location.replace("https://diva168best.com/register?referral=15542094924");}
 function xroyal123() {location.replace("https://www.royal123fk.com/register?ref=F88M1AN0ZJ2");}
 function xaquaslot() {location.replace("https://aquaslot12.com/?ref=bunsin");}
 function xmpo369() {location.replace("https://kaya369pasti.xyz/register/W7N46140");}
