@@ -4,6 +4,7 @@ function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxlanjut88() {window.open("#");}
 function lcxpusaka787() {window.open("#");}
 function lcxarobet88() {window.open("#");}
+function lcxkenzo188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16607124");}
 function lcxkaikoslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13433187");}
 function lcxbetcoinasia() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12845313");}
 function lcxbom29toto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13794945");}
