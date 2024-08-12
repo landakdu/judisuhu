@@ -4,7 +4,7 @@ function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxlanjut88() {window.open("#");}
 function lcxpusaka787() {window.open("#");}
 function lcxarobet88() {window.open("#");}
-function lcxmega55() {window.open("#");}
+function lcxmega55() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12269352");}
 function lcxwishslot() {window.open("#");}
 function lcxpintutogel() {window.open("#");}
 function lcxnyaitogel() {window.open("#");}
