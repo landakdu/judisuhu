@@ -1,9 +1,7 @@
 function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
-function lcxlanjut88() {window.open("#");}
-function lcxpusaka787() {window.open("#");}
-function lcxarobet88() {window.open("#");}
+function lcxsitus() {window.open("#");}
 function lcxmega55() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12269352");}
 function lcxwishslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13470840");}
 function lcxpintutogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14193819");}
@@ -29,7 +27,6 @@ function lcxkenzo188() {window.open("https://secure.livechatinc.com/customer/act
 function lcxkaikoslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13433187");}
 function lcxbetcoinasia() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12845313");}
 function lcxbom29toto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13794945");}
-function lcxpepe77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18215013");}
 function lcxserbacasino() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=8475017");}
 function lcxboss177() {window.open("https://tawk.to/chat/658aa00d07843602b80594c3/1hiio2eb7/");}
 function lcxhedon77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17285331");}
