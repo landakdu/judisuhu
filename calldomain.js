@@ -26,7 +26,7 @@ function xkenzo188() {window.open("https://ttv1a.blogspot.com/2024/07/kenzo188.h
 function xnewliga365() {window.open("https://ttv1a.blogspot.com/2024/06/newliga365_30.html");}
 function xroyal123() {window.open("https://ttv1a.blogspot.com/2024/07/royal123.html");}
 function xsquad777() {window.open("https://ttv1a.blogspot.com/2024/06/squad777_30.html");}
-function x8bettingan() {window.open("https://ttv1a.blogspot.com/2024/07/8bettingan.html");}
+function x8bettingan() {window.open("https://bettingan3.guru/register?ref=QZPZPBE00O4");}
 function xdewa234() {window.open("https://ttv1a.blogspot.com/2024/07/dewa234.html");}
 function xsweet777() {window.open("https://ttv1a.blogspot.com/2024/07/sweet777.html");}
 function xpoa88() {window.open("https://ttv1a.blogspot.com/2024/07/poa88.html");}
