@@ -1,3 +1,4 @@
+function xjudisuhu() {location.replace("https://judisuhub.blogspot.com/");}
 function xno() {location.replace("https://nosafetyy.blogspot.com/");}
 function xolympus188() {location.replace("https://www.olympus188c.store/register?ref=E3MBNAC0374");}
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
@@ -79,4 +80,3 @@ function xbetcoinasia() {location.replace("https://linkbtc.pro/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
 function xpphoki() {location.replace("https://pphoki55.net/?ref=rakuyaba");}
-function xjudisuhu() {location.replace("https://judisuhub.blogspot.com/");}
