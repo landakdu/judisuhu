@@ -47,7 +47,7 @@ function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {location.replace("https://jdmerah.top/register?reff=rakuyaba");}
 function xmega55() {location.replace("https://mega55bisa.xyz/register?ref=ZGGIGAB00JK");}
 function x66kone() {location.replace("https://t.me/W66KONE");}
-function xmpo222() {location.replace("https://mpo222pacifier.com/register/WNR6893G");}
+function xmpo222() {location.replace("https://mpo222dot.com/register/WNR6893G");}
 function xcoblos4d() {location.replace("https://coblosonline4d.xyz/?ref=rakuyaba");}
 function xagenslot168() {location.replace("https://agenslt168.xyz/register/Y7G7GR7B");}
 function xnewliga365() {location.replace("https://newliga365t.pro/?action=register&rc=N8SY7QO738&ci=11");}
