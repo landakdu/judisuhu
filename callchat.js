@@ -2,6 +2,7 @@ function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b70
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxsitus() {window.open("#");}
+function lcxcahaya268() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17219535");}
 function lcxneko9() {window.open("https://tawk.to/chat/6553951f958be55aeaaf9610/1hf77t1mt");}
 function lcx66kone() {window.open("https://tawk.to/chat/64a2303594cf5d49dc612122/1h4cookhi");}
 function lcxmega55() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12269352");}
