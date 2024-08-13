@@ -51,7 +51,7 @@ function lcxjetplay88() {window.open("https://secure.livechatinc.com/customer/ac
 function lcxnusabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7982011");}
 function lcxtkp303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14657013");}
 function lcxvit88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783");}
-function lcxadipatislot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13174164");}
+function lcxadipatislot() {window.open("https://tawk.to/chat/613fcfadd326717cb6814505/1ffgk6fq7?pop=1");}
 function lcxbk8() {window.open("https://vue.livesupportbs.com/chatwindow.aspx?siteId=5000379&chatGroup=1&planId=08040000-0000-0000-0000-008e004c4cbb#");}
 function lcxflash303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13447317");}
 function lcxfijislot() {window.open("https://tawk.to/chat/650952a90f2b18434fd94e5d/1ham6lq2j");}
