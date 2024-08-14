@@ -1,4 +1,4 @@
-https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
+function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxsitus() {window.open("#");}
