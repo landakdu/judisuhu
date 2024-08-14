@@ -1,4 +1,4 @@
-function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
+https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxsitus() {window.open("#");}
@@ -80,7 +80,7 @@ function lcxraja168() {window.open("https://tawk.to/chat/660c65101ec1082f04de11f
 function lcxkiw69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16541139");}
 function lcxwis77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17110815");}
 function lcxhokiwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13036704");}
-function lcxzona66() {window.open("https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18&cid=c9be17ba-5df4-4675-b2da-b5d4b01c117b&ctoken=tjhqanQzGdz1sIddDDH01h7NtP7ynKV9yw4lj&r=0.6598621208396493&ou=https%3A%2F%2Flareuniontx.org");}
+function lcxzona66() {window.open("https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18");}
 function lcxkudetabet98() {window.open("https://tawk.to/chat/6277a9737b967b11798e4e3c/1g2hmrr04");}
 function lcxmpo333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14870319");}
 function lcxjitu77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14666055");}
