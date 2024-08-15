@@ -1,5 +1,5 @@
 function xdjudisuhu() {location.replace("https://judisuhu.blogspot.com/");}
-function xsbobet() {location.replace("https://ttv1a.blogspot.com/2024/08/sbobet.html");}
+function xsbobet() {window.open("https://ttv1a.blogspot.com/2024/08/sbobet.html");}
 function xlotto01() {window.open("https://ttv1a.blogspot.com/2024/06/lotto01_98.html");}
 function xbom29toto() {window.open("https://ttv1a.blogspot.com/2024/07/bom29toto.html");}
 function x8togel() {window.open("https://ttv1a.blogspot.com/2024/07/8togel.html");}
