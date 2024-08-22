@@ -2,6 +2,15 @@ function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b70
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxdiva168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=8599976");}
+function lcxslotoppo88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16819017");}
 function lcxalexabet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9285615");}
 function lcxapi77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17076201");}
 function lcxindoagen188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15785760");}
