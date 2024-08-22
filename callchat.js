@@ -10,7 +10,7 @@ function lcxrusia777() {window.open("https://secure.livechatinc.com/customer/act
 function lcxolympus188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17800104");}
 function lcxkoin313() {window.open("https://app.chaport.com/widget/show.html?appid=6630f7d09c42f38ff5f9b4b1");}
 function lcxxuxu4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18367545");}
-function lcxmpo666() {window.open("https://tawk.to/chat/5fbfebb5a1d54c18d8edc568/default?pop=1");}
+function lcxmpo666() {window.open("https://tawk.to/chat/5fbfebb5a1d54c18d8edc568/default?");}
 function lcxdiva168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=8599976");}
 function lcxslotoppo88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16819017");}
 function lcxalexabet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9285615");}
