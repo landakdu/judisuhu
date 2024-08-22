@@ -8,7 +8,7 @@ function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
-function lcxsitus() {window.open("#");}
+function lcxmpo666() {window.open("https://tawk.to/chat/5fbfebb5a1d54c18d8edc568/default?pop=1");}
 function lcxdiva168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=8599976");}
 function lcxslotoppo88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16819017");}
 function lcxalexabet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9285615");}
