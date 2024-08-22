@@ -6,7 +6,7 @@ function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
-function lcxsitus() {window.open("#");}
+function lcxkoin313() {window.open("https://app.chaport.com/widget/show.html?appid=6630f7d09c42f38ff5f9b4b1");}
 function lcxxuxu4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18367545");}
 function lcxmpo666() {window.open("https://tawk.to/chat/5fbfebb5a1d54c18d8edc568/default?pop=1");}
 function lcxdiva168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=8599976");}
