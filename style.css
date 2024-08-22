@@ -630,7 +630,7 @@ scrollbar-width: auto;  /* Firefox */
   animation: flickerfbdemo 2.5s infinite alternate; }/* Flickering animation */
 @keyframes flickerfbdemo {0%, 0%, 0%, 0%, 0%, 0%, 100% {text-shadow:0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525, 0 0 10px #087525;} 20%, 24%, 55% {  text-shadow: none;}}
   
-.card{float:left;width:11.1%;background:0 0;border:none;text-align:center;display:inline-grid;position:relative}.card-content{margin:5px 2px;color:#fff;font-size:12px;border:revert-layer;overflow:hidden;border-radius:25px;border-bottom:4px ridge;border-color:silver;position:relative}
+.card{float:left;width:11.1%;background:0 0;border:none;text-align:center;display:inline-grid;position:relative}.card-content{margin:5px 2px;color:#fff;font-size:12px;border:revert-layer;overflow:hidden;border-radius:25px;border-color:silver;position:relative}
                         
 @media(max-width:1230px){.slot-sidebar-nav{flex-wrap:nowrap}
 .card{width:33.3%!important} 
