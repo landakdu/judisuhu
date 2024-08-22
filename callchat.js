@@ -3,6 +3,8 @@ function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxsitus() {window.open("#");}
 function lcxsitus() {window.open("#");}
+function lcxsitus() {window.open("#");}
+function lcxspesial303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17021322");}
 function lcxsbobet() {window.open("http://www.lukcity.com/web-root/public/live-chat/live-chat.aspx?isBsi=1&lang=ID-ID");}
 function lcxrusia777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13877010");}
 function lcxolympus188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17800104");}
