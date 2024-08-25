@@ -2,7 +2,7 @@ function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b70
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function lcxsitus() {window.open("#");}
-function lcxsitus() {window.open("#");}
+function lcxjudi388() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12336072");}
 function lcxsquad777() {window.open("https://tawk.to/chat/65df22be9131ed19d972dc2f/1hnnpveon?");}
 function lcxspesial303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17021322");}
 function lcxsbobet() {window.open("http://www.lukcity.com/web-root/public/live-chat/live-chat.aspx?isBsi=1&lang=ID-ID");}
