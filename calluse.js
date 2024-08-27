@@ -26,7 +26,7 @@ function xnyaitogel() {location.replace("https://nyaibonanza.org/register?referr
 function xpintutogel() {location.replace("https://pintutotoslot.com/register?referral_code=rakuyaba");}
 function xantiktoto() {location.replace("https://mainantik.pro/link.php?member=rakuyaba");}
 function xcahaya268() {location.replace("https://klikjp1m.site/register?ref=3SKALAC01FJ");}
-function xkijangwin() {location.replace("http://ratu-kijangwin.click/daftar?ref=rakuyaba");}
+function xkijangwin() {location.replace("http://kijangwin-super1.shop/daftar?ref=rakuyaba");}
 function xaurajp() {location.replace("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
 function xspesial303() {location.replace("https://malamminggu.site/register?ref=rakuyaba");}
 function xxuxu4d() {location.replace("https://xuxu4dkl.com/?ref=rakuyaba");}
