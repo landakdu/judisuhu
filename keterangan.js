@@ -1,11 +1,11 @@
 const bgbahaya = document.getElementsByClassName("bgbahaya");
 for (let i = 0; i < bgbahaya.length; i++) {
-  bgbahaya[i].innerHTML = "<h1 class='keterangan-font-size'>Mohon maaf situs ini berbahaya menurut kami sebab situs ini hilang begitu saja dan kami tidak tahu apa penyebabnya, kami telah berupaya mencari dari berbagai sumber namun tidak di temukan begitu juga dengan livechatnya tidak ada satupun informasi layanan tertinggal yang dapat kami hubungi., salam dari judisuhu 🙏.</h1>";
+  bgbahaya[i].innerHTML = "<h1 class='keterangan-font-size'><span class='color-red'>Situs ini berbahaya menurut kami sebab situs ini hilang begitu saja</span>, semua link terbaru tidak dapat di akses kemungkinan terbesar situs ini di tutup atau di hapus begitu saja sehingga tidak ada pertinggal kontak apapun untuk bisa di hubungi, apabila kami menemukan informasi kontak atau link yang bisa di akses akan kami update pada tombol situs ini serta warna tombol juga akan di ubah sesuai setatus situsnya, terima kasih 🙏.</h1>";
 }
 
 const bgwaspada = document.getElementsByClassName("bgwaspada");
 for (let i = 0; i < bgwaspada.length; i++) {
-  bgwaspada[i].innerHTML = "<h1 class='keterangan-font-size'>Mohon maaf link terbaru silahkan minta kepada cs melalui tombol <span class='color-red'>CHAT</span> yang telah kami sediakan di bawah, judisuhu ragu dengan situs ini jika tetap ingin melanjutkan bermain anda harus <span class='color-red'>WASPADA</span> karena bisa saja situs ini <span class='color-red'>tidak aman</span> dan untuk sementara link tanpa vpn tidak di sediakan judisuhu sampai situs ini di anggap aman untuk di mainkan</h1>";
+  bgwaspada[i].innerHTML = "<h1 class='keterangan-font-size'>Maaf untuk link alternatif terbaru silahkan meminta langsung melalui <span class='color-red'>Tombol CHAT  berwarna merah di Bawah</span>, kami tidak menyediakan link tanpa vpn untuk situs yang belum masuk dalam kriteria aman menurut kami, anda harus waspada jika ingin tetap bermain di situs ini karena bisa saja terjadi hal yang tidak anda inginkan, atas perhatiannya kami ucapkan terima kasih 🙏</h1>";
 }
 
 const bgdomain = document.getElementsByClassName("bgdomain");
