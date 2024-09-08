@@ -1,6 +1,6 @@
 function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xfreebet() {location.replace("https://demojudisuhuslotonline.on.drv.tw/slot3/");}
+function xfreebet() {location.replace("https://demojudisuhuslotonline.on.drv.tw/slot4/");}
 function lcxsitus() {window.open("#");}
 function lcxdewa234() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11676600");}
 function lcxunoplay() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13140525");}
