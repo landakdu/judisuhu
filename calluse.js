@@ -82,4 +82,4 @@ function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function xbetcoinasia() {location.replace("https://linkbtc.pro/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
-function xpphoki() {location.replace("https://pphokivip.cam/?ref=rakuyaba");}
+function xpphoki() {location.replace("https://pphokigacor.com/?ref=rakuyaba");}
