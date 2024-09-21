@@ -2,6 +2,7 @@ function lcxchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b70
 function lcxchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
 function xfreebet() {location.replace("https://judisuhuslotdemogaccor.on.drv.tw/jsdemo/");}
 function lcxsitus() {window.open("#");}
+function lcx8togel() {window.open("https://test140.hkbchat.com/chatapifront?user=22201873&key=ede8f248da975249018d2b24235341a6&prov=10009&title=https://8trubick.com/");}
 function lcxdewa234() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11676600");}
 function lcxunoplay() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13140525");}
 function lcxhoki77() {window.open("https://tawk.to/chat/5e90510e35bcbb0c9aafb4d0/default?");}
