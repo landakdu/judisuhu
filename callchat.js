@@ -85,7 +85,7 @@ function lcxfungame777() {window.open("https://secure.livechatinc.com/licence/13
 function lcxluxury333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16489149");}
 function lcxslotmacau188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14635155");}
 function lcxtektok77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16014690");}
-function lcxindogenting() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
+function lcxindogenting() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=5&");}
 function lcxagen288() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13767375");}
 function lcxrahayu88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15103890");}
 function lcxneo177() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17925771");}
