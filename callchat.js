@@ -129,7 +129,7 @@ function lcxgacorbos88() {window.open("https://secure.livechatinc.com/customer/a
 function lcxjawara88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14306658");}
 function lcxyakinslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15868308");}
 function lcxhoki138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14569842");}
-function lcxtatabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
+function lcxtatabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=8&");}
 function lcxsatutogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
 function lcxdemen303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11194722");}
 function lcxairbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=10715182");}
