@@ -1,3 +1,7 @@
+.bodyhost{
+overflow-x: hidden;
+}
+
 #hideidx {
   display: none;
 }
@@ -639,4 +643,3 @@ scrollbar-width: auto;  /* Firefox */
 .textmenu {font-size: 67%;}
                      
 @media(max-width:550px){.mobilesetingnow{flex-wrap:nowrap}
-
