@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
 
 function xjudisuhu() {location.replace("https://judisuhub.blogspot.com/");}
-function xno() {location.replace("https://nosafetyy.blogspot.com/");}
+function xsitus() {location.replace("#");}
 function xsbobet() {location.replace("http://www.joinnowsbo.com/register?lg=en&btag=658219_RAF_36529296");}
 function xolympus188() {location.replace("https://www.olympus188c.store/register?ref=E3MBNAC0374");}
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
