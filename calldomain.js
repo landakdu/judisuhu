@@ -1,4 +1,6 @@
 function xdjudisuhu() {location.replace("https://judisuhu.blogspot.com/");}
+function xfreebet() {window.open("https://judisuhuslotdemogaccor.on.drv.tw/jsdemo/");}
+function xsitus() {window.open("#");}
 function xpphoki() {window.open("https://ltvpn.blogspot.com/pphoki");}
 function xhoki177() {window.open("https://ltvpn.blogspot.com/hoki177");}
 function xtokekwin() {window.open("https://ltvpn.blogspot.com/tokekwin");}
