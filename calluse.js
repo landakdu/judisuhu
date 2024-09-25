@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
 
 function xjudisuhu() {location.replace("https://judisuhub.blogspot.com/");}
+function xfreebet() {location.replace("https://judisuhuslotdemogaccor.on.drv.tw/jsdemo/");}
 function xsitus() {location.replace("#");}
 function xsbobet() {location.replace("http://www.joinnowsbo.com/register?lg=en&btag=658219_RAF_36529296");}
 function xolympus188() {location.replace("https://www.olympus188c.store/register?ref=E3MBNAC0374");}
@@ -78,7 +79,6 @@ function xdiva168() {location.replace("https://diva168best.com/register?referral
 function xroyal123() {location.replace("https://www.royal123fk.com/register?ref=F88M1AN0ZJ2");}
 function xaquaslot() {location.replace("https://aquaslotsilver.com/?ref=bunsin");}
 function xmpo369() {location.replace("https://mpo369aw.com/register/W7N46140");}
-function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function xbetcoinasia() {location.replace("https://linkbtc.pro/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
