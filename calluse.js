@@ -9,7 +9,7 @@ function xhoki77() {location.replace("https://hoki77vpn2.com/register?ref=LJYAYa
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
 function xkaikoslot() {location.replace("https://gokaiko2.sbs/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
-function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
+function xratu89() {location.replace("https://airatu89.store/register?ref=aOog12X");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
 function xkoin313() {location.replace("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {location.replace("https://indagen188.bond/register/W518KB66");}
@@ -64,7 +64,7 @@ function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {location.replace("https://bettingan3.guru/register?ref=QZPZPBE00O4");}
 function xsinggah4d() {location.replace("https://singgah4d-gacor.com/?ref=rakuyaba");}
 function xpoa88() {location.replace("https://poa88yok.xyz/?ref=rakuyaba");}
-function xlotto01() {location.replace("https://kejayaanlt01.fun/referral/BUNSIN");}
+function xlotto01() {location.replace("https://wededasyat.xyz/referral/BUNSIN");}
 function xsquad777() {location.replace("https://vip.squad777-play.store/register?ref=bunsin");}
 function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
@@ -82,4 +82,4 @@ function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function xbetcoinasia() {location.replace("https://linkbtc.pro/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
-function xpphoki() {location.replace("https://pphokigacor.net/?ref=rakuyaba");}
+function xpphoki() {location.replace("https://pphoki40.com/?ref=rakuyaba");}
