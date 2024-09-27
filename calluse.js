@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
 
-function xjudisuhu() {location.replace("https://judisuhub.blogspot.com/");}
+function xjudisuhu() {location.replace("https://www.judisuhu.fun/");}
 function xfreebet() {location.replace("https://judisuhuslotdemogaccor.on.drv.tw/jsdemo/");}
 function xsitus() {location.replace("#");}
 function xsbobet() {location.replace("http://www.joinnowsbo.com/register?lg=en&btag=658219_RAF_36529296");}
