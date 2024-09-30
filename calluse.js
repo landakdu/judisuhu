@@ -73,7 +73,7 @@ function xhoki177() {location.replace("https://lokasihoki177.com/register?ref=ra
 function xgacorslot() {location.replace("https://gacorslotoke.site/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
-function xtokekwin() {location.replace("https://tokekwinbor.us/daftar?ref=rakuyaba");}
+function xtokekwin() {location.replace("http://xn--12ca1aa5c2a5d3ff0e6ewe.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xdewakoin() {location.replace("https://world-action.net/register?ref=PABAAAP0MH8");}
 function xdiva168() {location.replace("https://diva168best.com/register?referral=15542094924");}
 function xroyal123() {location.replace("https://www.royal123fk.com/register?ref=F88M1AN0ZJ2");}
