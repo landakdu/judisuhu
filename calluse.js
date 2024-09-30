@@ -62,7 +62,7 @@ function xwisdom77() {location.replace("https://wisdom77vip.com/?ref=rakuyaba");
 function xlembagatoto() {location.replace("https://lembagatotojpwd.com/register?referral_code=rakuyaba");}
 function xunoplay() {location.replace("https://uno1playbest.xyz/register?ref=E48A47B5");}
 function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
-function x8bettingan() {location.replace("https://bettingan3.guru/register?ref=QZPZPBE00O4");}
+function x8bettingan() {location.replace("https://bettingan3.biz/?ref=QZPZPBE00O4");}
 function xsinggah4d() {location.replace("https://singgah4d-gacor.com/?ref=rakuyaba");}
 function xpoa88() {location.replace("https://poa88yok.xyz/?ref=rakuyaba");}
 function xlotto01() {location.replace("https://wededasyat.xyz/referral/BUNSIN");}
