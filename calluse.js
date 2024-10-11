@@ -10,7 +10,7 @@ function xhoki77() {location.replace("https://hoki77vpn2.com/register?ref=LJYAYa
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
 function xkaikoslot() {location.replace("https://gokaiko2.sbs/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
-function xratu89() {location.replace("https://airatu89.store/register?ref=aOog12X");}
+function xratu89() {location.replace("https://octo10.store/register?ref=aOog12X");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
 function xkoin313() {location.replace("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {location.replace("https://indagen188.bond/register/W518KB66");}
