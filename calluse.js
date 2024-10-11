@@ -82,4 +82,4 @@ function xmpo369() {location.replace("https://mpo369ax.com/register/W7N46140");}
 function xbetcoinasia() {location.replace("https://linkbtc.pro/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
-function xpphoki() {location.replace("https://pphoki505.asia/?ref=rakuyaba");}
+function xpphoki() {location.replace("https://pphoki43.com/?ref=rakuyaba");}
