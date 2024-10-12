@@ -55,7 +55,7 @@ function x66kone() {location.replace("https://t.me/W66KONE");}
 function xmpo222() {location.replace("https://mpo222sparkler.com/register/WNR6893G");}
 function xcoblos4d() {location.replace("https://sobatcoblos4d.one/?ref=rakuyaba");}
 function xagenslot168() {location.replace("https://agenslt168.xyz/register/Y7G7GR7B");}
-function xnewliga365() {location.replace("https://newliga365t.pro/?action=register&rc=N8SY7QO738&ci=11");}
+function xnewliga365() {location.replace("https://newliga365d.info/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {location.replace("https://komunitas888.click/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {location.replace("https://wisdom77vip.com/?ref=rakuyaba");}
