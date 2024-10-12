@@ -40,7 +40,7 @@ function xwishslot() {location.replace("https://linkwishslot.lol/register?ref=1B
 function xjet88bet() {location.replace("https://jet88betcore.com/?ref=rakuyaba");}
 function xcvtogel() {location.replace("https://freedomammostore.com/link.php?member=rakuyaba");}
 function xole777() {location.replace("https://mobi.gol8988.me/#/register?referral=nn97j3Yw");}
-function xaw8() {location.replace("https://www.aw8boss.com/id-id/register?refid=vpwavmyw");}
+function xaw8() {location.replace("https://www.aw8mantap.com/en-id/register?refid=vpwavmyw");}
 function xalexabet88() {location.replace("https://alexabet88gcr.com/register?ref=4284846");}
 function xmpo08() {location.replace("https://mpo08seribu.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://silvermile.net/register/W42BG936");}
