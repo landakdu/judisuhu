@@ -1,47 +1,5 @@
 // code standing inside html.js for easy edit
 const menu1 = `
-<div class="hidescroll">
-<div class="menu1">
-<button class="tombol shadow-menu" onclick="xjudisuhu()">Update</button>
-<button class="tombol shadow-menu" onclick="document.getElementById('chatadmin').style.display='block'">Request</button>
-<button class="tombol shadow-menu" onclick="document.getElementById('ptutorvideo').style.display='block'">Tutorial</button>
-<button class="tombol shadow-menu" onclick="xfreebet()">Freebet</button>
-</div>
-
-
-<div class="tposisi" onclick="opentutorial()">
-<span style="font-family: arial;">
-<a rel="nofollow" style="text-decoration: none;">
-<marquee class="marquee1" scrollamount="10">
-<span class="jalan1"><b>
-Selamat datang bosQ 😉 di sini menyediakan semua link resmi terbaru situs judi online sesuai permintaan bukan Phising baca info lengkapnya klik tulisan ini.....
-</b></span></marquee></a></span></div>
-<div class="tutoroverlay" id="tutorialshow">
-  <div class="tutoroverlay-content">
-<p><span>Selamat datang bosQ 😉 di sini menyediakan link terbaru dari beberapa situs judi online yang di update setiap hari sehingga anda tidak perlu lagi susah payah mencari link terbaru jika kena block atau gangguan akses lainnya dan jika halaman ini di block tekan 1 kali tombol update di atas maka akan masuk ke halaman baru yang bisa di akses dan semua link situs juga akan terupdate otomatis, jika butuh bantuan atau request link situs lain kirimkan pesan kepada kami melalui chat yang tersedia di tombol Chat di atas.</span></p><p><span style="color: red;"><b>RUANG INI BUKAN PHISING</b></span></p><p><span>Kami tekankan kembali bahwa ruang ini bukanlah Phising ruang ini hanyalah sebuah ruang jasa pencari alamat atau link resmi terbaru berbagai situs judi online yang dapat di pergunakan tanpa vpn dan situs apa saja yang kami sediakan tergantung permintaan dari member situs itu sendiri.</span></p><p><span>Banyak penggemar permainan situs judi online mengalami kesulitan untuk mendapatkan link resmi yang dapat di pergunakan tanpa vpn termasuk kami, dari gangguan akses internet positif, layar berwarna putih, biru, merah, bertulisan eror dan lain sebagainya sering kami alami dan jika meminta link kepada cs malah di berikan link yang sama erornya jika di minta link lain malah di arahkan download aplikasi atau menggunakan vpn saja itu bukanlah solusi untuk kami bukan kami tidak mau menggunakan aplikasi tahukah anda menginstal aplikasi judionline ke dalam perangkat pribadi kami sangatlah berbahaya apabila terjadi razia atau siapapun yang akan mengecek maka akan terlihat aplikasi judi online yang terinstal pada perangkat yang kami gunakan dan sudah jelas pastilah akan merugikan diri kami pribadi, berbeda jika menggunakan link tanpa vpn cukup bersihkan riwayat browser saja semua bukti hilang jika ingin login lagi cukup masukkan link ke browser tanpa harus melakukan download instal lagi dan bukan kami tidak mau menggunakan vpn tahukah anda bahwa vpn itu jika di pergunakan selain ribet juga banyak akan mengalami masalah jika di pergunakan karena vpn itu jenis aplikasi lain yang berfungsi untuk merubah ip perangkan yang kita gunakan namun aplikasi itu akan memakan koneksi dan kuota internet lebih besar serta ram hp atau pc yang di pergunakan akan bekerja 3 sampai 5 kali lebih keras dari biasanya menyebabkan hp lemot, batrai cepat habis dan panas, kualitas hp menjadi lebih buruk dan dapat menyebabkan kerusakan pada perangkat yang tidak berkualitas tinggi jika perangkat kita berkualitas tinggi mungkin tidak ada masalah tetapi jika perangkat kualitas standar perangkat bisa rusak gejala lain yang sangat mengganggu karena pakai vpn sebagai berikut
-<br />1. buka game akan lama
-<br />2. main slot akan sering terputus dari server dan game berputar terus tidak bisa di hentikan hanya bisa di tutup
-<br />3. main casino video live akan berhenti sendiri
-<br />4. taruhan sportbook di tolak terus karena odds sudah berubah sebab loading lama saat bet
-<br />5. main poker harusnya kartu menang tiba-tiba terputus dari server keluar dari game sendiri dan akhirnya di hitung kita fold
-<br />6. main tembak ikan sedang asik menembak ikan yang sudah mau mati malah terputus dari server lalu logout sendiri 
-<br />dari pengalaman-pengalaman seperti itulah kami menciptakan ruang ini untuk berbagi informasi link resmi terbaru yang bisa di akses tanpa menggunakan vpn untuk semua penggemar permainan situs judi online bukan phising.</span></p><p><span>Setahu kami PHISING itu mengatas namakan situs anda tanpa mencantumkan link resmi ataupun sarana komunikasi ke situs anda sama sekali, berbeda dengan kami yang benar-benar menyediakan link resmi ataupun sarana komunikasi ke situs anda di ruang jasa kami ini boleh anda cek langsung dengan cara menekan 1 kali gambar logo situs anda sendiri yang kami sediakan di dalam ruang jasa kami ini, kami mencantumkan link alternatif ataupun sarana komunikasi resmi ke situs anda dengan benar di ruang jasa kami ini apakah layak kami di tuduh sebagai phising situs anda jawabannya tanyakan pada diri anda sendiri, perlu di ingat kembali bahwa ruang kami ini bukan ruang khusus situs anda dan kami bukan team marketing anda di sini adalah ruang berbagi link alternatif resmi semua situs judi online untuk semua penggemar permainan situs judi online seperti kami.<br /><br />Mohon maaf apabila penjelasan kami tidak berkenan di hati anda dan kami tidak bermaksud menyakiti siapapun, kami hanya berupaya menjelaskan bahwa kami tidak melakukan Phising dan hanya menyediakan ruangan berbagi link resmi semua situs judi online, atas perhatiannya kami ucapkan terima kasih 🙏</span>.</p>
-</div>
-<a class="closebtn" href="javascript:void(0)" onclick="closetutorial()">TUTUP</a>  
-</div>
-
-<div class="shadow-chat ket1"><h1 style="background-color: rgba(0, 0, 0, 0);"><a class="ket2"><span class="ket2">cari nama situs 👇 lalu klik gambar </span></a></h1></div>
-
-<input id="myInput" onkeyup="myFunction()" placeholder="Pencarian cepat ketik disini..." title="Type in a name" type="text" />  
-
-<div class="groupsm">
-<button class="groupssemua" id="show"><a class="textmenu">SEMUA</a></button>
-<button class="groupsaman" id="aman"><a class="textmenu">AMAN</a></button>
-<button class="groupswaspada" id="waspada"><a class="textmenu">WASPADA</a></button>
-<button class="groupsbahaya" id="bahaya"><a class="textmenu">BAHAYA</a></button>
-<button class="groupsupdatelink" id="bahaya" onclick="document.getElementById('updatelink').style.display='block'"><a class="textmenu">INFO</a></button>
-</div>
-
 <ul id="myUL">
   
 <!--aman1--> 
@@ -390,7 +348,7 @@ Selamat datang bosQ 😉 di sini menyediakan semua link resmi terbaru situs judi
 </ul> 
 <!--menu2-->
 <div class="modalbahaya1 menu" id="chatadmin">
-<span class="close" onclick="document.getElementById('chatadmin').style.display='none'" title="Close Modal">×</span>
+<span class="close" onclick="document.getElementById('chatadmin').style.display='none'" title="Close Modal">Ã—</span>
 <form class="modalbahaya1-content">
 <div class="container">
 <h1 class="warnatextchat">CHAT ADMIN</h1>
@@ -401,7 +359,7 @@ Selamat datang bosQ 😉 di sini menyediakan semua link resmi terbaru situs judi
 <button class="fb" onclick="lcxchatfb()" type="button"><b>CHAT FB</b></button>
 </div></div></form></div> 
 <div class="modalbahaya1" id="ptutorvideo">
-<span class="close" onclick="document.getElementById('ptutorvideo').style.display='none'" title="Close Modal">×</span>
+<span class="close" onclick="document.getElementById('ptutorvideo').style.display='none'" title="Close Modal">Ã—</span>
 <form class="modalbahaya1-content">
 <div class="container">
 <h1 class="warnatextchat">Video Tutorial</h1>
@@ -410,7 +368,7 @@ Selamat datang bosQ 😉 di sini menyediakan semua link resmi terbaru situs judi
 <button class="ttpupdatelink" onclick="document.getElementById('ptutorvideo').style.display='none'" type="button"><b>TUTUP</b></button>
 </div></div></form></div>
 <div class="modalbahaya1" id="updatelink">
-<span class="close" onclick="document.getElementById('updatelink').style.display='none'" title="Close Modal">×</span>
+<span class="close" onclick="document.getElementById('updatelink').style.display='none'" title="Close Modal">Ã—</span>
 <form class="modalbahaya1-content">
 <div class="container">
 <h1 class="warnabahaya">INFO LINK UPDATE</h1>
@@ -418,10 +376,8 @@ Selamat datang bosQ 😉 di sini menyediakan semua link resmi terbaru situs judi
 <div class="clearfixbahaya">
 <button class="ttpupdatelink" onclick="document.getElementById('updatelink').style.display='none'" type="button"><b>TUTUP</b></button>
 </div></div></form></div>
-  
-  
-<!--waspada2-->
-</div>
+
+
 
 `;
 
@@ -439,4 +395,3 @@ const menu4 = `
 const menu5 = `
 
 `;
-
