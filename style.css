@@ -1,4 +1,4 @@
-.bodyhost{
+body{
 overflow-x: hidden;
 }
 
@@ -31,7 +31,7 @@ margin: -2% 0% -2% 0%;
 position:absolute;
 top:0%;
 height:auto;
-width:0px;
+width:1px;
 }
 
 .logojs {
@@ -332,14 +332,13 @@ font-size: 0.5rem;
               0px 0px 5px rgba(2 2 2 / 75%);
 }
 
-.cancelbtn1, .deletebtn1 {
+.cancelbtn1, .deletebtn1, .cancelbtn2 {
   font-weight:900;
   border-radius:25px;
   color:white;
   font-size:20px;
   float: left;
   height:50px;
-  width: 48%;
   margin:0% 1%;
   border-bottom:ridge;
   text-overflow: ellipsis;
@@ -347,11 +346,22 @@ font-size: 0.5rem;
               0px 0px 5px rgba(2 2 2 / 75%);
 }
 
+.deletebtn1 { width: 48%; }
+.cancelbtn1 { width: 48%; }
+.cancelbtn2 { width: 98%; }
+
 /* Add a color to the cancel button */
 .cancelbtn1 {
   background:linear-gradient(to right,#2b4732 2%, #507f5c 88%, #507f5c 100%);
 }
 .cancelbtn1:hover {
+  background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
+}
+
+.cancelbtn2 {
+  background:linear-gradient(to right,#2b4732 2%, #507f5c 88%, #507f5c 100%);
+}
+.cancelbtn2:hover {
   background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 
@@ -474,7 +484,7 @@ hr {
     letter-spacing:0px;
     font-size: 200%;
     font-weight: revert-layer;
-    font-family:Helvetica, serif;
+    font-family:monospace;
     color: #444444;
 }
   
@@ -606,8 +616,8 @@ text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
 }
 
 .ket1 {height: auto;left: 70%;margin: -16px 0px -7px;padding: 0px;text-align: center;top: 0px;width: 100%;color: black;font-family: arial;}
-.ket2 {font-size: 100%;margin-left: 1em; margin-right: 1em;}
-.jalan1 {color: black;font-family: arial;font-size: 60%;}
+.ket2 {font-size: 110%;margin-left: 1em; margin-right: 1em;}
+.jalan1 {color: black;font-family: arial;font-size: 80%;}
 
 .hidescroll {
 padding: 0% 1%;
