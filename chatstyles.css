@@ -1,0 +1,205 @@
+html, body {
+width: 100%;
+height: 100%;
+}
+
+body {
+padding: 0%;
+margin: 0%;
+background-color: #f1c40f;
+    -webkit-animation: color 15s ease-in  0s infinite alternate running;
+    -moz-animation: color 15s linear  0s infinite alternate running;
+    animation: color 15s linear  0s infinite alternate running;
+
+}
+
+/* Animasi + Prefix untuk browser */
+@-webkit-keyframes color {
+0% { background-color: #95022b; }
+17% { background-color: #ff00c8; }
+34% { background-color: #37428c; }
+51% { background-color: #01ffdc; }
+68% { background-color: #068e23; }
+85% { background-color: #c7f900; }
+100% { background-color: #ed0000; }
+}
+@-moz-keyframes color {
+0% { background-color: #95022b; }
+17% { background-color: #ff00c8; }
+34% { background-color: #37428c; }
+51% { background-color: #01ffdc; }
+68% { background-color: #068e23; }
+85% { background-color: #c7f900; }
+100% { background-color: #ed0000; }
+}
+@keyframes color {
+0% { background-color: #95022b; }
+17% { background-color: #ff00c8; }
+34% { background-color: #37428c; }
+51% { background-color: #01ffdc; }
+68% { background-color: #068e23; }
+85% { background-color: #c7f900; }
+100% { background-color: #ed0000; }
+}
+
+#myDIV {
+display: none;
+height: 100%;
+}
+
+#mybutton {
+display: block;
+}
+
+.chat {
+width: 50%;
+height: 100%;
+}
+
+.iklan1, .iklan2 {
+width: 24.4%;
+height: 100%;
+padding: 0%;
+margin: 0%;
+background-repeat: space, repeat-y;
+background-attachment: local;
+background-size: contain;
+background-position: center;
+}
+
+.audio {
+display: none;
+}
+
+.tutup, .buka, .buka0 {
+    color: aliceblue;
+    font-size: -webkit-xxx-large;
+    font-family: auto;
+    width: 98%;
+    margin: 0.5% 1%;
+    border: outset;
+    border-radius: 100px;
+    border-color: aquamarine;
+    text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
+              0px 0px 5px rgba(2 2 2 / 75%);
+    background: radial-gradient(ellipse farthest-corner at right bottom, #92f9ff 0%, #b3eded 8%, #81c3bb 30%, #8ed1cb 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #049d92 0%, #6aafb7 8%, #9fc5c5 25%, #00bfaf 62.5%, #00ffff 100%);
+    
+}
+
+.tutup:hover, .buka:hover, .buka0:hover {
+background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
+}
+
+.buka {
+position: absolute;
+top: 63%;
+}
+
+.buka0 {
+position: absolute;
+top: 73%;
+}
+
+.buka1 {
+margin: 0% 0%;
+padding: 0% 0%;
+}
+
+.keterangan {
+position: fixed;
+background-position: top;
+background-color: #ffffff78;
+background-repeat: no-repeat;
+background-attachment: local;
+background-size: auto 8%;
+border-radius: 50px;
+text-align: start;
+font-family: monospace;
+font-size: medium;
+margin: 1% 2%;
+padding: 0% 0%;
+}
+
+.color-red{
+    color: #F00;
+}
+.color-green{
+    color: #04ff00;
+}
+
+.color-yellow{
+    color: #fcff01;
+}
+
+.color-blue{
+    color: #2b00fe;
+}
+
+.keterangan-font-size{
+    padding:2%;
+    text-align:left;
+    letter-spacing:0px;
+    font-size: 180%;
+    font-weight: revert-layer;
+    font-family:monospace;
+    color: #444444;
+}
+
+@media(max-width:1025px){.mobilesetingnow{flex-wrap:nowrap}
+
+.keterangan-font-size{
+    font-size: 140%;
+}
+
+.buka {
+top:55%;
+}
+
+.buka0 {
+top: 70%;
+}
+
+
+
+@media(max-width:999px){.mobilesetingnow{flex-wrap:nowrap}
+
+.chat {
+padding: 0% 0% 0% 0%;
+width: 100%;
+}
+
+.iklan1, .iklan2 {
+display: none;
+position: absolute;
+width: 20%;
+}
+
+.iklan1 {
+padding: 20% 0% 0% 0%;
+}
+
+.iklan2 {
+padding: 60% 0% 0% 0%;
+}
+
+.keterangan-font-size {
+ font-size: 100%;
+margin: 5% 0% 2% 0%;
+}
+
+.tutup, .buka, .buka0 {
+    font-size: x-large;
+}
+
+.buka {
+top:60%;
+}
+
+.buka0 {
+top: 70%;
+}
+
+.keterangan-font-size{
+    font-size: 95%;
+    padding:5%;
+}
