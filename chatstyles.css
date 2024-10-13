@@ -46,14 +46,14 @@ display: none;
 background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 
+.buka, .buka0 {position: sticky;}
+
 .buka {
-position: absolute;
-top: 63%;
+margin: 45% 1% 1% 1%;
 }
 
 .buka0 {
-position: absolute;
-top: 73%;
+margin: 2% 1%;
 }
 
 .buka1 {
