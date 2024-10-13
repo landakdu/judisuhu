@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
 function xjudisuh() {location.replace("https://masuktanpavpnselamanya.on.drv.tw/links/judisuhu/");}
 function xlotto01() {location.replace("https://masuktanpavpnselamanya.on.drv.tw/links/lotto01/");}
 function xhoki177() {location.replace("https://masuktanpavpnselamanya.on.drv.tw/links/hoki177/");}
