@@ -12,5 +12,7 @@
       barmenu5.innerHTML = menu5;
       let barmenu6 = document.querySelector('menu6[role="navigation"]');
       barmenu6.innerHTML = menu6;
+      let barutama = document.querySelector('utama[role="navigation"]');
+      barutama.innerHTML = utama;
       
     });
