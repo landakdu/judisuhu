@@ -2,6 +2,9 @@ document.addEventListener("DOMContentLoaded", function(event) { document.createE
 
 function xjudisuhu() {location.replace("https://www.judisuhu.fun/");}
 function xfreebet() {location.replace("https://judisuhuslotdemogaccor.on.drv.tw/jsdemo/");}
+function xfacebookjs() {location.replace("https://www.facebook.com/profile.php?id=61553499868790");}
+function xquora() {location.replace("https://judisuhu.quora.com/");}
+function xpinterest() {location.replace("https://id.pinterest.com/judisuhu/");}
 function xsitus() {location.replace("#");}
 function xhoki77() {location.replace("https://hoki77vpn2.com/register?ref=LJYAYaL");}
 function xratu89() {location.replace("https://octo12.store/register?ref=aOog12X");}
