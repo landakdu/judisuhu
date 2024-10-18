@@ -1,5 +1,5 @@
 // code standing inside html.js for easy edit
-const menu1 = `
+const utama1 = `
 <ul id="myUL">
   
 <!--aman1--> 
