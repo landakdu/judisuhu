@@ -2,40 +2,4 @@
 .hoki177 { background-color: #5b0002;}
 .tokekwin { background-color: #934b84;}
 .lotto01 { background-color: #22c16a;}
-.utama {
-  background-color: #f1c40f;
-    -webkit-animation: color 15s ease-in  0s infinite alternate running;
-    -moz-animation: color 15s linear  0s infinite alternate running;
-    animation: color 15s linear  0s infinite alternate running;
-
-}
-
-/* Animasi + Prefix untuk browser */
-@-webkit-keyframes color {
-0% { background-color: #95022b; }
-17% { background-color: #ff00c8; }
-34% { background-color: #37428c; }
-51% { background-color: #01ffdc; }
-68% { background-color: #068e23; }
-85% { background-color: #c7f900; }
-100% { background-color: #ed0000; }
-}
-@-moz-keyframes color {
-0% { background-color: #95022b; }
-17% { background-color: #ff00c8; }
-34% { background-color: #37428c; }
-51% { background-color: #01ffdc; }
-68% { background-color: #068e23; }
-85% { background-color: #c7f900; }
-100% { background-color: #ed0000; }
-}
-@keyframes color {
-0% { background-color: #95022b; }
-17% { background-color: #ff00c8; }
-34% { background-color: #37428c; }
-51% { background-color: #01ffdc; }
-68% { background-color: #068e23; }
-85% { background-color: #c7f900; }
-100% { background-color: #ed0000; }
-}
-}
+.utama1 { background:radial-gradient(ellipse farthest-corner at right bottom, #b8c4c5 0%, #a6b1b1 8%, #9fa7a6 30%, #c3c3c3 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #b3cfcd 0%, #c0e3e3 8%, #dff1f1 25%, #bdede9 62.5%, #739999 100%)}
