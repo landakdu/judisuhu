@@ -14,7 +14,7 @@ function xkijangwin() {location.replace("http://member-kijangwin.today/daftar?re
 function xmpo222() {location.replace("https://mpo222online.com/register/WNR6893G");}
 function xratu89() {location.replace("https://octo12.store/register?ref=aOog12X");}
 function xaquaslot() {location.replace("https://aquaslotdraw.com/?ref=bunsin");}
-function x303hoki() {location.replace("https://303hokiah.com/register/Y66KPQ1K");}
+function x303hoki() {location.replace("https://303hokiada.com/register/Y66KPQ1K");}
 function xjet88bet() {location.replace("https://jet88betcore.com/?ref=rakuyaba");}
 function xmpo369() {location.replace("https://mpo369ax.com/register/W7N46140");}
 function xnewliga365() {location.replace("https://newliga365d.info/?action=register&rc=N8SY7QO738&ci=11");}
