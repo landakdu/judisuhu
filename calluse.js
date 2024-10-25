@@ -11,7 +11,7 @@ function xhoki177() {location.replace("https://siaphoki177.com/register?ref=raku
 function xtokekwin() {location.replace("http://xn--12ca1aa5c2a5d3ff0e6ewe.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xlotto01() {location.replace("https://dikasihpecah.site/referral/BUNSIN");}
 function xkijangwin() {location.replace("http://member-kijangwin.today/daftar?ref=rakuyaba");}
-function xmpo222() {location.replace("https://mpo222online.com/register/WNR6893G");}
+function xmpo222() {location.replace("https://mpo222n.com/register/WNR6893G");}
 function xratu89() {location.replace("https://octo12.store/register?ref=aOog12X");}
 function xaquaslot() {location.replace("https://aquaslot18.com/?ref=bunsin");}
 function x303hoki() {location.replace("https://303hokiada.com/register/Y66KPQ1K");}
