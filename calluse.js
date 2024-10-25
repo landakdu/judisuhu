@@ -13,7 +13,7 @@ function xlotto01() {location.replace("https://dikasihpecah.site/referral/BUNSIN
 function xkijangwin() {location.replace("http://member-kijangwin.today/daftar?ref=rakuyaba");}
 function xmpo222() {location.replace("https://mpo222n.com/register/WNR6893G");}
 function xratu89() {location.replace("https://octo12.store/register?ref=aOog12X");}
-function xaquaslot() {location.replace("https://aquaslot18.com/?ref=bunsin");}
+function xaquaslot() {location.replace("https://aquaslotzus.com/?ref=bunsin");}
 function x303hoki() {location.replace("https://303hokiada.com/register/Y66KPQ1K");}
 function xjet88bet() {location.replace("https://jet88betcore.com/?ref=rakuyaba");}
 function xmpo369() {location.replace("https://mpo369ax.com/register/W7N46140");}
