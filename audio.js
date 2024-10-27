@@ -1,3 +1,6 @@
+document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
+function xjudisuhu() {location.replace("../../index.html");}
+
 var x = document.getElementById("autoplaymusic");
 function enableAutoplay() { 
   var url = ("https://audio.jukehost.co.uk/JLWHIcrVuQmXXrY3TUEiV9owZtmeoTux")
