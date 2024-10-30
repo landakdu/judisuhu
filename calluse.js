@@ -6,7 +6,7 @@ function xfacebookjs() {location.replace("https://www.facebook.com/profile.php?i
 function xquora() {location.replace("https://judisuhu.quora.com/");}
 function xpinterest() {location.replace("https://id.pinterest.com/judisuhu/");}
 function xsitus() {location.replace("#");}
-function xpphoki() {location.replace("https://pphokigacor.cam/?ref=rakuyaba");}
+function xpphoki() {location.replace("https://pphoki888.cyou/?ref=rakuyaba");}
 function xhoki177() {location.replace("https://siaphoki177.com/register?ref=rakuyaba");}
 function xtokekwin() {location.replace("http://xn--12ca1aa5c2a5d3ff0e6ewe.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xlotto01() {location.replace("https://tembaklt01.sbs/referral/BUNSIN");}
