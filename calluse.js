@@ -24,5 +24,5 @@ function xcoblos4d() {location.replace("https://sobatcoblos4d.one/?ref=rakuyaba"
 function xmpo08() {location.replace("https://mpo08powers.com/register/WM418MNP");}
 function xkadobet() {location.replace("https://2kadobet.live/?ref=rakuyaba");}
 function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
-function xole777() {location.replace("https://mobi.gol8988.me/#/register?referral=nn97j3Yw");}
+function xole777() {location.replace("https://mobi.ole391.com/#/register?referral=nn97j3Yw");}
 function xaw8() {location.replace("https://www.aw8indo1.com/id-id/register?refid=vpwavmyw");}
