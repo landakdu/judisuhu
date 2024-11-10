@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
 
 function xjudisuhu() {location.replace("https://judisuhu.store/");}
-function xfreebet() {location.replace("https://judisuhuslotdemogaccor.on.drv.tw/jsdemo/");}
+function xfreebet() {location.replace("https://www.qqcukurukuk.fun/");}
 function xfacebookjs() {location.replace("https://www.facebook.com/profile.php?id=61553499868790");}
 function xquora() {location.replace("https://judisuhu.quora.com/");}
 function xpinterest() {location.replace("https://id.pinterest.com/judisuhu/");}
