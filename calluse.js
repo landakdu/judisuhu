@@ -19,7 +19,7 @@ function xjet88bet() {location.replace("https://jetstargo3.shop/?ref=rakuyaba");
 function xmpo369() {location.replace("https://www.mpo369az.com/register/W7N46140");}
 function xnewliga365() {location.replace("https://newliga365c.info/?action=register&rc=N8SY7QO738&ci=11");}
 function x8bettingan() {location.replace("https://bettingan3.online/register?ref=QZPZPBE00O4");}
-function xsweet777() {location.replace("https://ugslot777.online/register?ref=GS2AEAB0SVJ");}
+function xsweet777() {location.replace("https://ugslot777.sbs/register?ref=GS2AEAB0SVJ");}
 function xcoblos4d() {location.replace("https://sobatcoblos4d.one/?ref=rakuyaba");}
 function xmpo08() {location.replace("https://mpo08luck.com/register/WM418MNP");}
 function xkadobet() {location.replace("https://2kadobet.live/?ref=rakuyaba");}
