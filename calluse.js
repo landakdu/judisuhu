@@ -22,7 +22,7 @@ function x8bettingan() {location.replace("https://bettingan3.online/register?ref
 function xsweet777() {location.replace("https://ugslot777.sbs/register?ref=GS2AEAB0SVJ");}
 function xcoblos4d() {location.replace("https://sobatcoblos4d.one/?ref=rakuyaba");}
 function xmpo08() {location.replace("https://mpo08luck.com/register/WM418MNP");}
-function xkadobet() {location.replace("https://2kadobet.live/?ref=rakuyaba");}
+function xkadobet() {location.replace("https://kitakadobet.com/?ref=rakuyaba");}
 function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
 function xole777() {location.replace("https://mobi.ole391.com/#/register?referral=nn97j3Yw");}
 function xaw8() {location.replace("https://www.aw8indo1.com/id-id/register?refid=vpwavmyw");}
