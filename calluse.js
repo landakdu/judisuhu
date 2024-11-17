@@ -9,7 +9,7 @@ function xsitus() {location.replace("#");}
 function xpphoki() {location.replace("https://pphoki888.cyou/?ref=rakuyaba");}
 function xhoki177() {location.replace("https://siaphoki177.com/register?ref=rakuyaba");}
 function xtokekwin() {location.replace("http://xn--12ca1aa5c2a5d3ff0e6ewe.xn--mk1bu44c/daftar?ref=rakuyaba");}
-function xlotto01() {location.replace("https://megahoki.sbs/referral/BUNSIN");}
+function xlotto01() {location.replace("https://jagoanjitu01.org/referral/BUNSIN");}
 function xkijangwin() {location.replace("http://member-kijangwin.today/daftar?ref=rakuyaba");}
 function xmpo222() {location.replace("https://mpo222n.com/register/WNR6893G");}
 function xratu89() {location.replace("https://octo12.store/register?ref=aOog12X");}
