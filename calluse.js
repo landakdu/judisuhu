@@ -21,7 +21,7 @@ function xnewliga365() {location.replace("https://newliga365c.info/?action=regis
 function x8bettingan() {location.replace("https://bettingan3.online/register?ref=QZPZPBE00O4");}
 function xsweet777() {location.replace("https://ugslot777.sbs/register?ref=GS2AEAB0SVJ");}
 function xcoblos4d() {location.replace("https://sobatcoblos4d.one/?ref=rakuyaba");}
-function xmpo08() {location.replace("https://mpo08luck.com/register/WM418MNP");}
+function xmpo08() {location.replace("https://mpo08hoki.com/register/WM418MNP");}
 function xkadobet() {location.replace("https://kitakadobet.com/?ref=rakuyaba");}
 function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
 function xole777() {location.replace("https://mobi.ole391.com/#/register?referral=nn97j3Yw");}
