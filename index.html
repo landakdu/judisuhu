@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Judisuhu - Temukan Situs Favoritmu!</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Temukan dan kunjungi berbagai Situs populer yang mungkin kamu inginakan selama ini. Cari Situs favoritmu dengan mudah!">
+  <meta name="keywords" content="Judisuhu, link Judisuhu, alternatif Judisuhu, login Judisuhu, daftar Judisuhu, masuk Judisuhu, Judisuhu daftar, Judisuhu login, Judisuhu link, Judisuhu alternatif.">
+  <meta name="author" content="Judisuhu">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Judisuhu - Temukan Situs Favoritmu!">
+  <meta property="og:description" content="Temukan dan kunjungi berbagai Situs populer yang mungkin kamu inginakan selama ini. Cari Situs favoritmu dengan mudah!">
+  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdILksvgKjwvWzDxc5JeNw7CF44-pNl_CXQRubzViZ94QoD3mau0uOkMiqdp-7UekJI5tSbb65N_vyumuQhCdUZk5PBYqekWvMd-2UDuxKy4uTnBYeYF9PsVmBqhEFcoqJEmfeEnvBBeo2B4g1Yj4p9KNSPWIKYCHTHU3sYf6cPJleLNVGNk3NQLolXugo/s320/Judisuhu.png">
+  <meta property="og:url" content="https://tanpavpn.com/situs/linkresmi/">
+  <meta name="google-site-verification" content="siXn2eja9gW6lMpQb75iKFGwgDpOppcxc9yKYFQlWr4" />
+  <meta property="og:type" content="website">
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdILksvgKjwvWzDxc5JeNw7CF44-pNl_CXQRubzViZ94QoD3mau0uOkMiqdp-7UekJI5tSbb65N_vyumuQhCdUZk5PBYqekWvMd-2UDuxKy4uTnBYeYF9PsVmBqhEFcoqJEmfeEnvBBeo2B4g1Yj4p9KNSPWIKYCHTHU3sYf6cPJleLNVGNk3NQLolXugo/s320/Judisuhu.png" type="image/x-icon">
+  <link rel="canonical" href="https://tanpavpn.com/situs/linkresmi/" />
+
+  <style>
+    h1, h2 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    .search-wrapper {
+      margin: 0 auto 30px auto;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    #searchInput {
+      flex-grow: 1;
+      padding: 12px 20px;
+      width: 50%;
+      max-width: 400px;
+      font-size: 16px;
+      border: 2px solid #2196F3;
+      border-radius: 30px;
+      box-shadow: 0 4px 6px rgba(33, 150, 243, 0.3);
+      transition: all 0.3s ease;
+      outline: none;
+      background-color: white;
+    }
+
+    #searchInput::placeholder {
+      color: #90caf9;
+      font-style: italic;
+    }
+
+    #searchInput:focus {
+      border-color: #0d47a1;
+      box-shadow: 0 0 10px #0d47a1;
+      background-color: #e3f2fd;
+    }
+
+    #searchBtn {
+      background: linear-gradient(45deg, #2196F3, #21CBF3);
+      border: none;
+      color: white;
+      padding: 12px 25px;
+      border-radius: 30px;
+      font-size: 16px;
+      cursor: pointer;
+      box-shadow: 0 5px 15px rgba(33, 150, 243, 0.4);
+      transition: all 0.3s ease;
+      user-select: none;
+    }
+
+    #searchBtn:hover {
+      background: linear-gradient(45deg, #21CBF3, #2196F3);
+      box-shadow: 0 8px 20px rgba(33, 150, 243, 0.7);
+      transform: translateY(-2px);
+    }
+
+    #searchBtn:active {
+      transform: translateY(0);
+      box-shadow: 0 3px 10px rgba(33, 150, 243, 0.3);
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .boxsitus {
+      background: linear-gradient(135deg, #5e9f93, #39b78f);
+      color: white;
+      width: 20%;
+      padding: 2% 1%;
+      text-align: center;
+      border-radius: 12px;
+      box-sizing: border-box;
+      margin: 2% 2%;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      box-shadow: 0 4px 8px rgb(0 0 0 / 30%);
+      cursor: pointer;
+      user-select: none;
+      position: relative;
+      overflow: hidden;
+      text-decoration: none;
+      display: block;
+    }
+
+    /* === Merah untuk Tombol "Segera Hadir" === */
+    .boxsitus.merah {
+      background: linear-gradient(135deg, #f44336, #d32f2f);
+    }
+
+    .boxsitus.merah:hover {
+      box-shadow: 0 5px 10px rgba(244, 67, 54, 0.7);
+    }
+
+    .img-situs {
+      max-width: 80%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .title-situs {
+      display: none;
+    }
+
+    .boxsitus:hover {
+      transform: scale(1.08);
+      box-shadow: 0px 5px 10px rgb(255 0 0 / 60%);
+    }
+
+    .boxsitus::before {
+      content: "";
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle at center, rgba(255,255,255,0.2), transparent 70%);
+      opacity: 0;
+      transition: opacity 0.4s ease;
+      pointer-events: none;
+      transform: rotate(25deg);
+    }
+
+    .boxsitus:hover::before {
+      opacity: 1;
+      animation: shine 1.2s ease forwards;
+    }
+
+    @keyframes shine {
+      0% {
+        transform: translateX(-100%) rotate(25deg);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      100% {
+        transform: translateX(100%) rotate(25deg);
+        opacity: 0;
+      }
+    }
+
+    @media (max-width: 900px) {
+      .boxsitus {
+        width: 30%;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .boxsitus {
+        width: 45%;
+      }
+    }
+
+    @media (max-width: 400px) {
+      .boxsitus {
+        width: 100%;
+      }
+    }
+
+    #notFoundMessage {
+      text-align: center;
+      display: none;
+      color: red;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  
+  <h1><span style="color: red; font-weight: bold;">www.judisuhu.com</span> <br><span>Rekomendasi Situs Terbaik 100% Bayar</span></h1>
+  <h2>Silakan klik tombol berlogo situs yang tersedia di bawah ini untuk mengunjungi situs terbaik.</h2>
+
+  <div class="search-wrapper">
+    <input type="text" id="searchInput" placeholder="Cari Link Situs..." />
+    <button id="searchBtn">Search</button>
+  </div>
+
+<p id="notFoundMessage">Situs tidak ditemukan.</p>
+<div class="container" id="menuContainer">
+ <!-- Tombol HIJAU -->
+<a class="boxsitus" onclick="linkqqbos99()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ7udDg_6P0BrYajxJ3Up8OrKoRNGLG1lWf7vWmgGVYaVvUTnHIadQjRuFG1CI7Ob1JfDweCRGxR7g4ueY_O2883486tFYhK0CIzuwfNgfg0seLzfbdJ6gfzH1Pqzut5CRf-SyKtq-sWB0tEzzYmtjalyIp0WJuviF9CTSkZJAJ5j_ry9hCCHoN1sqsdZn/s320/qqbos99.png" class="img-situs">
+<span class="title-situs">qqbos99</span></a>
+
+<a class="boxsitus" onclick="linkhoki177()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7I6UpUdoWve6Dm3YJQC-bJeJj5MZun3bgPgl-wh5uEnGTC4MrtyBOH-hNQAFqzykM8W1d01yvpaBZ94nWKOGYLYR6iteK0UBzOLKtOYPJgTqy6ahmZdeAqxir-gZ9dnICd1Fof1eW28arMBb2f5X0AkgHrdEa4YWEhlmw88m6TfmllCtoI-IQJxokKKM6/s320/hoki177.png" class="img-situs">
+<span class="title-situs">hoki177</span></a>
+
+<a class="boxsitus" onclick="linkpphoki()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHQFz05wqyOAZ3qVsZiAnRh_kfHWD5oh48IF-zyTELKv5MfK81yWLVAdUAtJYp5xBf3xD1ZrZ4DCyoe_po6ILMJaROgv6tngYkPkqRPvBnLh2-egNwnChrCRk6JmdwLGDRIn6tLuX59paDaROhgUAXVo6kV_8qQV9xZ97iw9AL6aPYf37rmQMCbxFIfqmP/s320/pphoki.webp" class="img-situs">
+<span class="title-situs">pphoki</span></a>
+
+<a class="boxsitus" onclick="linktokekwin()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0i1T2YtR2cJjaNiBaCKKNkmul_sNMMnEAWxYBjacGoJkjrAniPGrc3WlXxlbT5p4uC1hIgWtf8qzp1MeFgC4vsfLorVamm1LiefHotfwtESBWJ1MB1QOa-D1IiBlfCEMLFdiS-91Gca2xL8A1nsiGVFx96BkH8d9zBool4_gk7AMwG2LJoJIQcRIGsttJ/s320/tokekwin.png" class="img-situs">
+<span class="title-situs">tokekwin</span></a>
+
+<a class="boxsitus" onclick="linkaw8()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgta7qEVILgux8LVzhuzpthpXOaw683Xj5hniW20daKl0Meae6FAHfugbC6QFBS640unmhA172rEpBAUnyisqF9TZRcUqPhRzAGKUMwrrEgcnEaVuz2AoD9ZVIwli6oiVbUMkamkoVlwuc_31KegrTBaNqrfmKYxshgVg6T50o2VGGka_4P9mbBJsWisx3f/s320/aw8.png" class="img-situs">
+<span class="title-situs">aw8</span></a>
+
+<a class="boxsitus" onclick="linkdewatogel()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ6IHlsw-CAeAB1rWmtnjW1HrXEdNk-LT7RbNsSaAV-QgGfopGze9b3Z8Vzn9peUmdfa_OdV-VzaJUQXgzn0t-lXwOx7FNvKFRFszwC67xX0otGrf_kofQx9SS0baddtqTzdzwGBgrRXCX-NxATROqPdQP2B3aOKO-hJO0r4p6wnp3XxlPeqVU0g4OPNj6/s320/dewatogel.png" class="img-situs">
+<span class="title-situs">dewatogel</span></a>
+
+<a class="boxsitus" onclick="linkmpo888()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVX8k7p4p3JgKh_EqShHdYtVP9baHfjymQ01FKew17WP8PLhCMoZRaObGplESNAftmfyPkWfrlPqYqFlGy2CD504cWmi9dP82sx71EOWLemW8B4UrgwgXBmjKrU_cUGu1YxTUcFShyphenhyphenIoeMsuGb-8DkO_bWo91EsEXRQZsOTROuwcaaqjNM8OHT713Q52Ox/s320/mpo888.gif" class="img-situs">
+<span class="title-situs">mpo888</span></a>
+
+<a class="boxsitus" onclick="linknewliga365()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNyhJup9PIjrGg4KGg34c3EvqL1w3qW8Zg7ZHOrKyTPOAnLwDeO4j4o2Qt47qHU7VcWwvD7wOlDQyHsOZYhYl_oIu1mpHfn4dEbZFOg1sSrwqgz5DxD4xMsda4058uao_PW9wA61jHU3jxLv5WFvV7nvNcvXd1UBjqsqPbqEf3SxQzg_BkyLd23VT5K_Cz/s320/newliga365.gif" class="img-situs">
+<span class="title-situs">newliga365</span></a>
+
+<a class="boxsitus" onclick="linklotto01()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZzJ1SWvgcO6ogVJZFSzgTc9lwVXhqMn8d3fj8paVT2kUOG_Ghw-HCe97uhiSD8cWPN-YBFOrOqApPzKekR2KPWzWlabfslZWxnU9D7UXCBGLD0HADDv0odiN8tQOsxQdQjltX7xpv1o1lRVg3ZPj0tGpWqfrh8HJiT0cxk9CnO0osqjFiR3dj4j26wEms/s320/lotto01.png" class="img-situs">
+<span class="title-situs">lotto01</span></a>
+
+<a class="boxsitus" onclick="linkkijangwin()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97VV2DwUzP4HbnqYhZ2FEllzZ0bJmtjbleh3PIqKSsJKL6ddHATuGHVGJTAyGPw8KBhyCDp0fcpA2oCuCBAsPoTHyQmABBDJS8GCct2wgSinSaZ3a6FZLJ735P5TeGZCBLeDjyMWZewy0DevzPuFp3PnqbuvVEoFuMQqgASLAOVKezf2pR40UY16S6VW9/s320/kijangwin.png" class="img-situs">
+<span class="title-situs">kijangwin</span></a>
+
+<a class="boxsitus" onclick="linkaquaslot()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_K0hf3RpnpkgSr92HKhZVVLSaBltG2-7bGoKPHD91QLaYwdAjyBQfCR0v5gt_48UBqUBpLucI6kIlEGRAfqMNZlHibHKT1MY3myWH9FLREpmvF0aLY69n6UTISaiGspLj3iWkBKUeS-lt9M_QKgN4PDimX7KBi49k9zP8ULqZFLgP62EPhZS6deRqUFij/s320/aquaslot.png" class="img-situs">
+<span class="title-situs">aquaslot</span></a>
+
+<a class="boxsitus" onclick="linkcoblos4d()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVa_OfxfK6C9-h6liUXJMXXFTn-x75lbT8chOq2TGdsF45iOaomFe-T5q60AEtJHNllyXIOibVpi4Zg-W2E5Z2dwXAWDbehbTNmCL9K_PM3n3lWxKnH4ZHmBoZtkJF_RH7PNtPx29Q_WOwDUQUXLhkS5kWecphhNpAHFSawGqFIABUpORBILPyP_IL19ag/s320/coblos4d.gif" class="img-situs">
+<span class="title-situs">coblos4d</span></a>
+
+<a class="boxsitus" onclick="linkkadobet()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY1khKUPd6_NaDIAPgbf4x49wYRLwt8Dxdi0VevxQ8w9a2nQVd_XvX2LWx6JcjH7CWUBlcusoc2Jn_WYInJMf8aZOyVWrzzQj8RHMPG54rM5J77rWMX0kvrb52GXwzC16Pl0l9-cPtSFxq0q3OT9mzgJ9ILOyVhbUsjtWuAdgDJ1mQ3iiS485k2PgYtZ4/s320/kadobet.png" class="img-situs">
+<span class="title-situs">kadobet</span></a>
+
+<a class="boxsitus" onclick="linkmpo222()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0oUtK7dG1_q9uPyerkWERqxb4VqABYWTB_yd90uiGOgPOqcKhHdppVuHg7I3JB5WwDnEQSIof75VD0Ih4_cZOm3GNJLaobHExN7dGgfd8UIl2hh3-_3JPg6BoFWVcU2EKOaoWnmtKN5xyuSIgL-UknN8yfqTzLJNrOoG17iANZNcl4rywdRBceIpnspqG/s320/mpo222.webp" class="img-situs">
+<span class="title-situs">mpo222</span></a>
+
+<a class="boxsitus" onclick="link303hoki()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3JJYlqBEx7K-82OdZx3bxKN1uD_4o1YN3MgwMt12YTqP98xGFDV9sgt0hYb-ZN0Hyx6DS0bRUS6OFNIM2f_C6Ep72amZyb8oE_zwbXdZfR4WkpfdoGgFbsVgXbqBjkkdXFnGe79UVejlOxDtn8kKh3ZqZ3lEmeahm8GDZCjgUjcuHddSDVpwojsq/s320/303hoki.webp" class="img-situs">
+<span class="title-situs">303hoki</span></a>
+
+<a class="boxsitus" onclick="linkjet88bet()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnNvw0uThTKerWiEcj6_SeVuXlIHpV2QAycSgBdOoivOe-iK0Z0XRCeQtT1ijKQ3IebGGi64FAwCiCzBqG_pbHdnyOM96xPvL4XMmxc9a9efz40Ae0T1IXPXrH9-J0swuk2is6ltxjW2AUM4GaLx83x7sMtA0tBzFj4kh952Kpm0_ko3EM2Phl38e/s320/jet88bet.png" class="img-situs">
+<span class="title-situs">jet88bet</span></a>
+
+<a class="boxsitus" onclick="linkmpo369()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR0g6oa8RucgQ0Gr5vcyJLU8_ASNqYy3S-okyTKjJJ9pUjbvz-OAAepwCQ9WxZVR1ja6Mz-mFMpSM8cB4csNjIIVKimrfHqrFPCyZmnLpQTiGc6B__3ZAFHJvnaqcORh_Hms1qi3BshSV9WZtuHsu4W6u6u9wUQzbjkDUgqO72c_9b5iOGRo5i3C2Z/s320/mpo369.gif" class="img-situs">
+<span class="title-situs">mpo369</span></a>
+
+<a class="boxsitus" onclick="linkmpo08()">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdaf8bzgkXivPjO0Zqcdt9bDkfadbs8j-11tIqmxjRZgPnB5aKz8tJj5JD6tIpy6n1Irc7u4wh08YVme1-W8nCDJGB4Jt273Tsoa-CTHoLRu6zQtPPRKTRvv07u91BC7nmQsCY-2iRgwIlF7QORNKAbWHR0OAtQ_xBbsArCDQbrLEmrV64jm6LnA7_/s320/mpo08.webp" class="img-situs">
+<span class="title-situs">mpo08</span></a>
+
+<!-- Tombol MERAH -->
+<a class="boxsitus merah" onclick="alert('Hubungi: Tidak Tersedia!'); return false;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnlOeSfedbEXtNaU9VyQH5O6VVOdzFdSb4skeYUDiAq_3nEJ8HSq92tLUtgyuEkTRqzatIF2m8xYT-dqYC1ytXMDs0TMVCygMivjvNahLZx6V2L2IAyeEuzUaecB5LrDpt50bWs6NIFIyc_n60kW-actH5wEQ4Ja-guJrRpPXJ-XVoMN0H6PbADd0IbFJ/s320/TambahSitus.gif" class="img-situs">
+<span class="title-situs">kas138</span></a>
+
+  </div>
+
+  <script>
+    const searchInput = document.getElementById("searchInput");
+    const searchBtn = document.getElementById("searchBtn");
+    const BOXSITUS = document.querySelectorAll(".boxsitus");
+    const notFoundMessage = document.getElementById("notFoundMessage");
+
+    function filterMenus() {
+      const keyword = searchInput.value.toLowerCase();
+      let found = false;
+
+      BOXSITUS.forEach(box => {
+        const text = box.textContent.toLowerCase();
+        if (text.includes(keyword)) {
+          box.style.display = "block";
+          found = true;
+        } else {
+          box.style.display = "none";
+        }
+      });
+
+      notFoundMessage.style.display = found ? "none" : "block";
+    }
+
+    searchInput.addEventListener("input", filterMenus);
+    searchBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      filterMenus();
+    });
+  </script>
+
+  <!-- File Eksternal -->
+  <script src='https://assets-e2t.pages.dev/referral.js' type='text/javascript'></script>
+</body>
+</html>
